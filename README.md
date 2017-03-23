@@ -18,4 +18,4 @@ Unpublished:
 
 Title | Venue | PDF
 --- | --- | ---
-Rollback and Forking Detection for Trusted Execution Environments using Lightweight Collective Memory |  |[https://arxiv.org/pdf/1701.00981.pdf](link)
+Rollback and Forking Detection for Trusted Execution Environments using Lightweight Collective Memory |  |[link](https://arxiv.org/pdf/1701.00981.pdf)
