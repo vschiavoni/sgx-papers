@@ -17,6 +17,7 @@ Eleos:  ExitLess  OS  Services  for  SGX  Enclaves | EuroSys'17 | [link](https:/
 SGXBounds: Memory Safety for Shielded Execution | EuroSys'17 | *missing*
 Hybrids on Steroids: SGX-Based High Performance BFT | EuroSys'17 | *missing*
 PANOPLY: Low-TCB Linux Applications with SGX Enclaves | NDSS'17 | [link](https://pdfs.semanticscholar.org/72ac/f6830064ee89b955e554013420def6154c12.pdf)
+Teechan: Payment Channels Using Trusted Execution Environments | BITCOIN'17 | [link](https://arxiv.org/pdf/1612.07766.pdf)
 
 
 Unpublished:
