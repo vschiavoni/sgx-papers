@@ -4,6 +4,7 @@ A list of system papers using/about Intel SGX
 
 Title | Venue | PDF
 --- | --- | ---
+Using Innovative Instructions to Create Trustworthy Software Solutions | HASP@ISCA'13 | [link](http://css.csail.mit.edu/6.858/2015/readings/sgx.pdf)
 Cooperation and Security Isolation of Library OSes for Multi-Process Applications | EuroSys'14 | [link](http://www.cs.unc.edu/~porter/pubs/tsai14graphene.pdf)
 Shielding Applications from an Untrusted Cloud with Haven | TOCS'15 | [link](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-baumann.pdf)
 VC3: trustworthy data analytics in the cloud us-ing SGX | S&P'15 | [link](http://www.ieee-security.org/TC/SP2015/papers-archived/6949a038.pdf)
