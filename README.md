@@ -24,6 +24,7 @@ Unpublished:
 
 Title | Venue | PDF
 --- | --- | ---
+Intel SGX Explained | | [link](https://eprint.iacr.org/2016/086.pdf)
 Rollback and Forking Detection for Trusted Execution Environments using Lightweight Collective Memory |  |[link](https://arxiv.org/pdf/1701.00981.pdf)
 A Blockchain Based on Gossip? – a Position Paper| | [link](https://www.zurich.ibm.com/dccl/papers/renesse_dccl.pdf)
 Proof of Luck: an Efficient Blockchain Consensus Protocol | | [link](https://arxiv.org/pdf/1703.05435.pdf)
