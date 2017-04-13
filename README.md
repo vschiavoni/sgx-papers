@@ -13,6 +13,7 @@ Ryoan: a distributed sandbox for untrusted computation on secret data. | OSDI'16
 SGX Support for Dynamic Memory Management Inside an Enclave |HASP'16|[link](http://caslab.eng.yale.edu/workshops/hasp2016/HASP16-16.pdf)
 Secure Content-Based Routing Using Intel Software Guard Extensions | Middleware'16 | [link](https://arxiv.org/pdf/1701.04612.pdf)
 SecureKeeper: Confidential ZooKeeper using Intel SGX |  Middleware'16 | [link](https://www.ibr.cs.tu-bs.de/users/brenner/papers/2016-middleware-brenner-securekeeper.pdf)
+AsyncShock: Exploiting Synchronisation Bugs in Intel SGX Enclaves | ESORICS'16 | [link](https://www.ibr.cs.tu-bs.de/users/weichbr/papers/esorics2016.pdf)
 Eleos:  ExitLess  OS  Services  for  SGX  Enclaves | EuroSys'17 | [link](https://sites.google.com/site/silbersteinmark/Home/cr-eurosys17sgx.pdf)
 SGXBounds: Memory Safety for Shielded Execution | EuroSys'17 | *missing*
 Hybrids on Steroids: SGX-Based High Performance BFT | EuroSys'17 | *missing*
