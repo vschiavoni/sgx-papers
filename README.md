@@ -19,7 +19,7 @@ Hybrids on Steroids: SGX-Based High Performance BFT | EuroSys'17 | *missing*
 PANOPLY: Low-TCB Linux Applications with SGX Enclaves | NDSS'17 | [link](https://pdfs.semanticscholar.org/72ac/f6830064ee89b955e554013420def6154c12.pdf)
 Teechan: Payment Channels Using Trusted Execution Environments | BITCOIN'17 | [link](https://arxiv.org/pdf/1612.07766.pdf)
 SGXIO: Generic Trusted I/O Path for Intel SGX | CODASPY'17 | [link](https://pdfs.semanticscholar.org/d069/bd7334bbaa445f98c8baee142fea195bbf6e.pdf)
-TrustJS: Trusted Client-side Execution of JavaScript | EuroSec'17 | *missing*
+TrustJS: Trusted Client-side Execution of JavaScript | EuroSec'17 | [link](https://www.ibr.cs.tu-bs.de/users/goltzsch/papers/eurosec2017-trustjs-preprint.pdf)
 
 Unpublished:
 
