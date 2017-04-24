@@ -22,6 +22,7 @@ Teechan: Payment Channels Using Trusted Execution Environments | BITCOIN'17 | [l
 SGXIO: Generic Trusted I/O Path for Intel SGX | CODASPY'17 | [link](https://pdfs.semanticscholar.org/d069/bd7334bbaa445f98c8baee142fea195bbf6e.pdf)
 TrustJS: Trusted Client-side Execution of JavaScript | EuroSec'17 | [link](https://www.ibr.cs.tu-bs.de/users/goltzsch/papers/eurosec2017-trustjs-preprint.pdf)
 SGX-Log: Securing System Logs With SGX | Asia CCS'17 | [link](http://delivery.acm.org/10.1145/3060000/3053034/p19-karande.pdf)
+Secure Live Migration of SGX Enclaves on Untrusted Cloud | DSN'17 | *missing*
 
 Unpublished:
 
