@@ -23,13 +23,13 @@ SGXIO: Generic Trusted I/O Path for Intel SGX | CODASPY'17 | [link](https://pdfs
 TrustJS: Trusted Client-side Execution of JavaScript | EuroSec'17 | [link](https://www.ibr.cs.tu-bs.de/users/goltzsch/papers/eurosec2017-trustjs-preprint.pdf)
 SGX-Log: Securing System Logs With SGX | Asia CCS'17 | [link](http://delivery.acm.org/10.1145/3060000/3053034/p19-karande.pdf)
 Secure Live Migration of SGX Enclaves on Untrusted Cloud | DSN'17 | *missing*
+Rollback and Forking Detection for Trusted Execution Environments using Lightweight Collective Memory | DSN'17 |[link](https://arxiv.org/pdf/1701.00981.pdf)
 
 Unpublished:
 
 Title | Venue | PDF
 --- | --- | ---
 Intel SGX Explained | | [link](https://eprint.iacr.org/2016/086.pdf)
-Rollback and Forking Detection for Trusted Execution Environments using Lightweight Collective Memory |  |[link](https://arxiv.org/pdf/1701.00981.pdf)
 A Blockchain Based on Gossip? – a Position Paper| | [link](https://www.zurich.ibm.com/dccl/papers/renesse_dccl.pdf)
 Proof of Luck: an Efficient Blockchain Consensus Protocol | | [link](https://arxiv.org/pdf/1703.05435.pdf)
 Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing | | [link](https://arxiv.org/pdf/1611.06952.pdf)
