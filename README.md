@@ -24,7 +24,7 @@ TrustJS: Trusted Client-side Execution of JavaScript | EuroSec'17 | [link](https
 SGX-Log: Securing System Logs With SGX | Asia CCS'17 | [link](http://delivery.acm.org/10.1145/3060000/3053034/p19-karande.pdf)
 Secure Live Migration of SGX Enclaves on Untrusted Cloud | DSN'17 | *missing*
 Rollback and Forking Detection for Trusted Execution Environments using Lightweight Collective Memory | DSN'17 |[link](https://arxiv.org/pdf/1701.00981.pdf)
-
+SecureStreams: Reactive Middleware for Secure Data Stream | DEBS'17 | *missing*
 Unpublished:
 
 Title | Venue | PDF
