@@ -16,7 +16,7 @@ SecureKeeper: Confidential ZooKeeper using Intel SGX |  Middleware'16 | [link](h
 AsyncShock: Exploiting Synchronisation Bugs in Intel SGX Enclaves | ESORICS'16 | [link](https://www.ibr.cs.tu-bs.de/users/weichbr/papers/esorics2016.pdf)
 Eleos:  ExitLess  OS  Services  for  SGX  Enclaves | EuroSys'17 | [link](https://sites.google.com/site/silbersteinmark/Home/cr-eurosys17sgx.pdf)
 SGXBounds: Memory Safety for Shielded Execution | EuroSys'17 | [link](http://delivery.acm.org/10.1145/3070000/3064192/p205-Kuvaiskii.pdf?ip=130.125.11.239&id=3064192&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=752365921&CFTOKEN=78152214&__acm__=1493370746_afc016e423faa06d56f426c88521f664)
-Hybrids on Steroids: SGX-Based High Performance BFT | EuroSys'17 | *missing*
+Hybrids on Steroids: SGX-Based High Performance BFT | EuroSys'17 | [link](http://www.ibr.cs.tu-bs.de/users/behl/papers/behl_17_eurosys.pdf)
 PANOPLY: Low-TCB Linux Applications with SGX Enclaves | NDSS'17 | [link](https://pdfs.semanticscholar.org/72ac/f6830064ee89b955e554013420def6154c12.pdf)
 Teechan: Payment Channels Using Trusted Execution Environments | BITCOIN'17 | [link](https://arxiv.org/pdf/1612.07766.pdf)
 SGXIO: Generic Trusted I/O Path for Intel SGX | CODASPY'17 | [link](https://pdfs.semanticscholar.org/d069/bd7334bbaa445f98c8baee142fea195bbf6e.pdf)
@@ -25,6 +25,7 @@ SGX-Log: Securing System Logs With SGX | Asia CCS'17 | [link](http://delivery.ac
 Secure Live Migration of SGX Enclaves on Untrusted Cloud | DSN'17 | to appear
 Rollback and Forking Detection for Trusted Execution Environments using Lightweight Collective Memory | DSN'17 |[link](https://arxiv.org/pdf/1701.00981.pdf)
 SecureStreams: Reactive Middleware for Secure Data Stream | DEBS'17 | to appear
+Regaining Lost Cycles with HotCalls: A Fast Interface for SGX Secure Enclaves | ISCA'17 | to appear
 
 Unpublished:
 
