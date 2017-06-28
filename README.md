@@ -26,6 +26,7 @@ Secure Live Migration of SGX Enclaves on Untrusted Cloud | DSN'17 | to appear
 Rollback and Forking Detection for Trusted Execution Environments using Lightweight Collective Memory | DSN'17 |[link](https://arxiv.org/pdf/1701.00981.pdf)
 SecureStreams: Reactive Middleware for Secure Data Stream | DEBS'17 | to appear
 Regaining Lost Cycles with HotCalls: A Fast Interface for SGX Secure Enclaves | ISCA'17 | to appear
+Glamdring: Automatic Application Partitioning for Intel SGX | ATC'17 | [link](https://www.usenix.org/conference/atc17/technical-sessions/presentation/lind)
 
 Unpublished:
 
