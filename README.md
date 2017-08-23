@@ -25,7 +25,7 @@ SGX-Log: Securing System Logs With SGX | Asia CCS'17 | [link](http://delivery.ac
 Secure Live Migration of SGX Enclaves on Untrusted Cloud | DSN'17 | to appear
 Rollback and Forking Detection for Trusted Execution Environments using Lightweight Collective Memory | DSN'17 |[link](https://arxiv.org/pdf/1701.00981.pdf)
 SecureStreams: Reactive Middleware for Secure Data Stream | DEBS'17 | to appear
-Regaining Lost Cycles with HotCalls: A Fast Interface for SGX Secure Enclaves | ISCA'17 | to appear
+Regaining Lost Cycles with HotCalls: A Fast Interface for SGX Secure Enclaves | ISCA'17 | [link](http://www.ofirweisse.com/ISCA17_Ofir_Weisse.pdf)
 Glamdring: Automatic Application Partitioning for Intel SGX | ATC'17 | [link](https://www.usenix.org/conference/atc17/technical-sessions/presentation/lind)
 Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing | Usenix Security'17 | [link](https://arxiv.org/pdf/1611.06952.pdf)
 S-NFV: Securing NFV states by using SGX | CODASPY'17 | [link](https://pdfs.semanticscholar.org/f20c/94a7cee079f6f7d97a1edcd5ab1dcc75bf90.pdf)
