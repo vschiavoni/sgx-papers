@@ -30,6 +30,7 @@ Glamdring: Automatic Application Partitioning for Intel SGX | ATC'17 | [link](ht
 Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing | Usenix Security'17 | [link](https://arxiv.org/pdf/1611.06952.pdf)
 S-NFV: Securing NFV states by using SGX | CODASPY'17 | [link](https://pdfs.semanticscholar.org/f20c/94a7cee079f6f7d97a1edcd5ab1dcc75bf90.pdf)
 Enhancing Security and Privacy of Tor's Ecosystem by Using Trusted Execution Environments | NSDI'17 | [link](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-kim-seongmin.pdf)
+Securing Data Analytics on SGX With Randomization | ESORICS'17 | [link](https://www.utdallas.edu/~zxl111930/file/ESORICS17.pdf)
 
 
 Unpublished:
