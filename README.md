@@ -31,6 +31,7 @@ Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing | 
 S-NFV: Securing NFV states by using SGX | CODASPY'17 | [link](https://pdfs.semanticscholar.org/f20c/94a7cee079f6f7d97a1edcd5ab1dcc75bf90.pdf)
 Enhancing Security and Privacy of Tor's Ecosystem by Using Trusted Execution Environments | NSDI'17 | [link](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-kim-seongmin.pdf)
 Securing Data Analytics on SGX With Randomization | ESORICS'17 | [link](https://www.utdallas.edu/~zxl111930/file/ESORICS17.pdf)
+Software Grand Exposure: SGX Cache Attacks Are Practical | WooT'17 | [link](https://www.usenix.org/system/files/conference/woot17/woot17-paper-brasser.pdf)
 
 
 Unpublished:
