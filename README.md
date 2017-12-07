@@ -33,7 +33,7 @@ Enhancing Security and Privacy of Tor's Ecosystem by Using Trusted Execution Env
 Securing Data Analytics on SGX With Randomization | ESORICS'17 | [link](https://www.utdallas.edu/~zxl111930/file/ESORICS17.pdf)
 Software Grand Exposure: SGX Cache Attacks Are Practical | WooT'17 | [link](https://www.usenix.org/system/files/conference/woot17/woot17-paper-brasser.pdf)
 Komodo: Using verification to disentangle secure-enclave hardware from software | SOSP'17 | [link](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/komodo.pdf)
-
+POSTER: Rust SGX SDK: Towards Memory Safety in Intel SGX Enclave | CCS'17 | [link](https://raw.githubusercontent.com/baidu/rust-sgx-sdk/master/documents/ccsp17.pdf)
 
 Unpublished:
 
