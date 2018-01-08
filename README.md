@@ -34,6 +34,7 @@ Securing Data Analytics on SGX With Randomization | ESORICS'17 | [link](https://
 Software Grand Exposure: SGX Cache Attacks Are Practical | WooT'17 | [link](https://www.usenix.org/system/files/conference/woot17/woot17-paper-brasser.pdf)
 Komodo: Using verification to disentangle secure-enclave hardware from software | SOSP'17 | [link](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/komodo.pdf)
 POSTER: Rust SGX SDK: Towards Memory Safety in Intel SGX Enclave | CCS'17 | [link](https://raw.githubusercontent.com/baidu/rust-sgx-sdk/master/documents/ccsp17.pdf)
+SGX-Bomb: Locking Down the Processor via Rowhammer Attack | SysTEX'17 | [link](http://people.oregonstate.edu/~jangye/assets/papers/2017/jang:sgx-bomb.pdf)
 
 Unpublished:
 
