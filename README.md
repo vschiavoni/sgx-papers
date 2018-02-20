@@ -37,6 +37,7 @@ POSTER: Rust SGX SDK: Towards Memory Safety in Intel SGX Enclave | CCS'17 | [lin
 SGX-Bomb: Locking Down the Processor via Rowhammer Attack | SysTEX'17 | [link](http://people.oregonstate.edu/~jangye/assets/papers/2017/jang:sgx-bomb.pdf)
 X-Search: Revisiting Private Web Search using Intel SGX | Middleware'17 | [link](https://hal.inria.fr/hal-01588883/document)
 VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification Structures | ASPLOS'18 | [link](https://www.cs.utah.edu/~rajeev/pubs/asplos18.pdf)
+EnclaveDB: A Secure Database using SGX | SP'18 |[link](https://www.computer.org/csdl/proceedings/sp/2018/4353/00/435301a405.pdf)
 
 Unpublished:
 
