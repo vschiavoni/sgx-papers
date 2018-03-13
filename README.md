@@ -40,6 +40,7 @@ VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification St
 EnclaveDB: A Secure Database using SGX | SP'18 |[link](https://www.computer.org/csdl/proceedings/sp/2018/4353/00/435301a405.pdf)
 ZeroTrace: Oblivious Memory Primitives from Intel SGX | NDSS'18 |[link](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_02B-4_Sasy_paper.pdf)
 OBLIVIATE: A Data Oblivious Filesystem for Intel SGX | NDSS'18 |[link](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_06A-2_Ahmad_paper.pdf)
+EndBox: Scalable Middlebox Functions Using Client-Side Trusted Execution | DSN'18 | TBA
 
 Unpublished:
 
