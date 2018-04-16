@@ -41,6 +41,7 @@ EnclaveDB: A Secure Database using SGX | SP'18 |[link](https://www.computer.org/
 ZeroTrace: Oblivious Memory Primitives from Intel SGX | NDSS'18 |[link](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_02B-4_Sasy_paper.pdf)
 OBLIVIATE: A Data Oblivious Filesystem for Intel SGX | NDSS'18 |[link](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_06A-2_Ahmad_paper.pdf)
 EndBox: Scalable Middlebox Functions Using Client-Side Trusted Execution | DSN'18 | [link](https://www.ibr.cs.tu-bs.de/users/goltzsch/papers/dsn18-endbox.pdf)
+Migrating SGX Enclaves with Persistent State | DSN'18 | TBA
 LibSEAL: Revealing Service Integrity Violations Using Trusted Execution | EuroSYS'18 | TBA
 CYCLOSA: Decentralizing Private Web Search Through SGX-Based Browser Extensions | ICDCS'18 | TBA
 
