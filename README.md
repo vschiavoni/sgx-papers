@@ -41,8 +41,8 @@ EnclaveDB: A Secure Database using SGX | SP'18 |[link](https://www.computer.org/
 ZeroTrace: Oblivious Memory Primitives from Intel SGX | NDSS'18 |[link](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_02B-4_Sasy_paper.pdf)
 OBLIVIATE: A Data Oblivious Filesystem for Intel SGX | NDSS'18 |[link](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_06A-2_Ahmad_paper.pdf)
 EndBox: Scalable Middlebox Functions Using Client-Side Trusted Execution | DSN'18 | [link](https://www.ibr.cs.tu-bs.de/users/goltzsch/papers/dsn18-endbox.pdf)
-LibSEAL: Revealing Service Integrity Violations Using Trusted Execution | EuroSys'18 | TBA
-PESOS: Policy Enhanced Secure Object Store | EuroSys'18 | TBA
+LibSEAL: Revealing Service Integrity Violations Using Trusted Execution | EuroSys'18 | [link](https://dl.acm.org/citation.cfm?id=3190547)
+PESOS: Policy Enhanced Secure Object Store | EuroSys'18 | [link](https://dl.acm.org/citation.cfm?id=3190518)
 Migrating SGX Enclaves with Persistent State | DSN'18 | TBA
 ShieldBox: Secure Middleboxes using Shielded Execution | SOSR'18 | TBA
 CYCLOSA: Decentralizing Private Web Search Through SGX-Based Browser Extensions | ICDCS'18 | TBA
@@ -52,9 +52,9 @@ Varys: Protecting SGX enclaves from practical side-channel attacks | ATC'18 | TB
 
 Unpublished:
 
-Title | Venue | PDF
---- | --- | ---
-Intel SGX Explained | | [link](https://eprint.iacr.org/2016/086.pdf)
-A Blockchain Based on Gossip? – a Position Paper| | [link](https://www.zurich.ibm.com/dccl/papers/renesse_dccl.pdf)
-Proof of Luck: an Efficient Blockchain Consensus Protocol | | [link](https://arxiv.org/pdf/1703.05435.pdf)
-Malware Guard Extension: Using SGX to Conceal Cache Attacks | | [link](https://arxiv.org/pdf/1702.08719.pdf)
+Title |  PDF
+--- |  ---
+Intel SGX Explained |  [link](https://eprint.iacr.org/2016/086.pdf)
+A Blockchain Based on Gossip? – a Position Paper|  [link](https://www.zurich.ibm.com/dccl/papers/renesse_dccl.pdf)
+Proof of Luck: an Efficient Blockchain Consensus Protocol |  [link](https://arxiv.org/pdf/1703.05435.pdf)
+Malware Guard Extension: Using SGX to Conceal Cache Attacks |  [link](https://arxiv.org/pdf/1702.08719.pdf)
