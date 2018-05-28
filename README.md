@@ -43,7 +43,7 @@ OBLIVIATE: A Data Oblivious Filesystem for Intel SGX | NDSS'18 |[link](http://wp
 EndBox: Scalable Middlebox Functions Using Client-Side Trusted Execution | DSN'18 | [link](https://www.ibr.cs.tu-bs.de/users/goltzsch/papers/dsn18-endbox.pdf)
 LibSEAL: Revealing Service Integrity Violations Using Trusted Execution | EuroSys'18 | [link](https://dl.acm.org/citation.cfm?id=3190547)
 PESOS: Policy Enhanced Secure Object Store | EuroSys'18 | [link](https://dl.acm.org/citation.cfm?id=3190518)
-Migrating SGX Enclaves with Persistent State | DSN'18 | TBA
+Migrating SGX Enclaves with Persistent State | DSN'18 | [link](https://arxiv.org/abs/1803.11021)
 ShieldBox: Secure Middleboxes using Shielded Execution | SOSR'18 | [link](https://conferences.sigcomm.org/sosr/2018/sosr18-finals/sosr18-final12.pdf)
 CYCLOSA: Decentralizing Private Web Search Through SGX-Based Browser Extensions | ICDCS'18 | [link](https://arxiv.org/abs/1805.01548)
 SGX-Aware Container Orchestration for Heterogeneous Clusters | ICDCS'18 | [link](https://arxiv.org/abs/1805.05847)
