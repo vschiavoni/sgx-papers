@@ -50,7 +50,7 @@ SGX-Aware Container Orchestration for Heterogeneous Clusters | ICDCS'18 | [link]
 Varys: Protecting SGX enclaves from practical side-channel attacks | ATC'18 | TBA
 
 
-Unpublished:
+Unpublished, tech-reports, or open-access:
 
 Title |  PDF
 --- |  ---
@@ -58,3 +58,4 @@ Intel SGX Explained |  [link](https://eprint.iacr.org/2016/086.pdf)
 A Blockchain Based on Gossip? – a Position Paper|  [link](https://www.zurich.ibm.com/dccl/papers/renesse_dccl.pdf)
 Proof of Luck: an Efficient Blockchain Consensus Protocol |  [link](https://arxiv.org/pdf/1703.05435.pdf)
 Malware Guard Extension: Using SGX to Conceal Cache Attacks |  [link](https://arxiv.org/pdf/1702.08719.pdf)
+Blockchain and Trusted Computing: Problems, Pitfalls, and a Solution for Hyperledger Fabric | [link](https://arxiv.org/abs/1805.08541)
