@@ -60,3 +60,4 @@ A Blockchain Based on Gossip? – a Position Paper|  [link](https://www.zurich.i
 Proof of Luck: an Efficient Blockchain Consensus Protocol |  [link](https://arxiv.org/pdf/1703.05435.pdf)
 Malware Guard Extension: Using SGX to Conceal Cache Attacks |  [link](https://arxiv.org/pdf/1702.08719.pdf)
 Blockchain and Trusted Computing: Problems, Pitfalls, and a Solution for Hyperledger Fabric | [link](https://arxiv.org/abs/1805.08541)
+DR.SGX: Hardening SGX Enclaves against Cache Attacks with Data Location Randomization|[link](https://arxiv.org/pdf/1709.09917.pdf)
