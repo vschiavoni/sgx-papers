@@ -49,6 +49,8 @@ ShieldBox: Secure Middleboxes using Shielded Execution | SOSR'18 | [link](https:
 CYCLOSA: Decentralizing Private Web Search Through SGX-Based Browser Extensions | ICDCS'18 | [link](https://arxiv.org/abs/1805.01548)
 SGX-Aware Container Orchestration for Heterogeneous Clusters | ICDCS'18 | [link](https://arxiv.org/abs/1805.05847)
 Varys: Protecting SGX enclaves from practical side-channel attacks | ATC'18 | [link](https://www.usenix.org/system/files/conference/atc18/atc18-oleksenko.pdf)
+Security, Performance and Energy Trade-offs of Hardware-assisted Memory Protection Mechanisms | SRDS'18 | TBA
+PubSub-SGX: exploiting Trusted Execution Environments for privacy-preserving publish/subscribe systems | SRDS'18 | TBA
 
 
 Unpublished, tech-reports, or open-access:
