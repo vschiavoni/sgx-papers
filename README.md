@@ -48,7 +48,7 @@ Migrating SGX Enclaves with Persistent State | DSN'18 | [link](https://arxiv.org
 ShieldBox: Secure Middleboxes using Shielded Execution | SOSR'18 | [link](https://conferences.sigcomm.org/sosr/2018/sosr18-finals/sosr18-final12.pdf)
 CYCLOSA: Decentralizing Private Web Search Through SGX-Based Browser Extensions | ICDCS'18 | [link](https://arxiv.org/abs/1805.01548)
 SGX-Aware Container Orchestration for Heterogeneous Clusters | ICDCS'18 | [link](https://arxiv.org/abs/1805.05847)
-Varys: Protecting SGX enclaves from practical side-channel attacks | ATC'18 | TBA
+Varys: Protecting SGX enclaves from practical side-channel attacks | ATC'18 | [link](https://www.usenix.org/system/files/conference/atc18/atc18-oleksenko.pdf)
 
 
 Unpublished, tech-reports, or open-access:
@@ -61,3 +61,4 @@ Proof of Luck: an Efficient Blockchain Consensus Protocol |  [link](https://arxi
 Malware Guard Extension: Using SGX to Conceal Cache Attacks |  [link](https://arxiv.org/pdf/1702.08719.pdf)
 Blockchain and Trusted Computing: Problems, Pitfalls, and a Solution for Hyperledger Fabric | [link](https://arxiv.org/abs/1805.08541)
 DR.SGX: Hardening SGX Enclaves against Cache Attacks with Data Location Randomization|[link](https://arxiv.org/pdf/1709.09917.pdf)
+SgxPectre Attacks: Stealing Intel Secrets from SGX Enclaves via Speculative Execution | [link](https://arxiv.org/pdf/1802.09085.pdf)
