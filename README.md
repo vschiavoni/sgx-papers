@@ -38,7 +38,7 @@ Iron: Functional Encryption using Intel SGX | CCS'17 | [link](https://acmccs.git
 SGX-Bomb: Locking Down the Processor via Rowhammer Attack | SysTEX'17 | [link](http://people.oregonstate.edu/~jangye/assets/papers/2017/jang:sgx-bomb.pdf)
 X-Search: Revisiting Private Web Search using Intel SGX | Middleware'17 | [link](https://hal.inria.fr/hal-01588883/document)
 VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification Structures | ASPLOS'18 | [link](https://www.cs.utah.edu/~rajeev/pubs/asplos18.pdf)
-STANlite-a database engine for secure data processing at rack-scale level | IC2E'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18stanlite.pdf)
+STANlite - a database engine for secure data processing at rack-scale level | IC2E'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18stanlite.pdf)
 EnclaveDB: A Secure Database using SGX | SP'18 |[link](https://www.computer.org/csdl/proceedings/sp/2018/4353/00/435301a405.pdf)
 ZeroTrace: Oblivious Memory Primitives from Intel SGX | NDSS'18 |[link](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_02B-4_Sasy_paper.pdf)
 OBLIVIATE: A Data Oblivious Filesystem for Intel SGX | NDSS'18 |[link](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_06A-2_Ahmad_paper.pdf)
