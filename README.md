@@ -56,6 +56,7 @@ Varys: Protecting SGX enclaves from practical side-channel attacks | ATC'18 | [l
 Security, Performance and Energy Trade-offs of Hardware-assisted Memory Protection Mechanisms | SRDS'18 | TBA
 PubSub-SGX: exploiting Trusted Execution Environments for privacy-preserving publish/subscribe systems | SRDS'18 | TBA
 sgx-perf: A Performance Analysis Tool for Intel SGX Enclaves | Middleware'18 | [link](https://www.ibr.cs.tu-bs.de/users/weichbr/papers/middleware2018.pdf)
+*E*Actors: Fast and flexible trusted computing using SGX | Middleware'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18eactors.pdf)
 
 
 Unpublished, tech-reports, or open-access:
