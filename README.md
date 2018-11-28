@@ -40,6 +40,7 @@ A Formal Foundation for Secure Remote Execution of Enclaves | CCS'17 | [link](ht
 SGX-Bomb: Locking Down the Processor via Rowhammer Attack | SysTEX'17 | [link](http://people.oregonstate.edu/~jangye/assets/papers/2017/jang:sgx-bomb.pdf)
 X-Search: Revisiting Private Web Search using Intel SGX | Middleware'17 | [link](https://hal.inria.fr/hal-01588883/document)
 SGXKernel: A Library Operating System Optimized for Intel SGX | CF'17 | [link](https://dl.acm.org/citation.cfm?id=3075572)
+Graphene-SGX: A Practical Library OS for Unmodified Applications on SGX |ATC'17| [link](https://www.usenix.org/conference/atc17/technical-sessions/presentation/tsai)
 VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification Structures | ASPLOS'18 | [link](https://www.cs.utah.edu/~rajeev/pubs/asplos18.pdf)
 STANlite - a database engine for secure data processing at rack-scale level | IC2E'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18stanlite.pdf)
 EnclaveDB: A Secure Database using SGX | SP'18 |[link](https://www.computer.org/csdl/proceedings/sp/2018/4353/00/435301a405.pdf)
@@ -59,7 +60,6 @@ PubSub-SGX: exploiting Trusted Execution Environments for privacy-preserving pub
 sgx-perf: A Performance Analysis Tool for Intel SGX Enclaves | Middleware'18 | [link](https://www.ibr.cs.tu-bs.de/users/weichbr/papers/middleware2018.pdf)
 *E*Actors: Fast and flexible trusted computing using SGX | Middleware'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18eactors.pdf)
 DelegaTEE: Brokered Delegation Using Trusted Execution Environments | USENIX Security'18| [link](https://www.usenix.org/conference/usenixsecurity18/presentation/matetic)
-Graphene-SGX: A Practical Library OS for Unmodified Applications on SGX |ATC'17| [link](https://www.usenix.org/conference/atc17/technical-sessions/presentation/tsai)
 
 
 Unpublished, tech-reports, or open-access:
