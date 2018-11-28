@@ -58,6 +58,8 @@ Security, Performance and Energy Trade-offs of Hardware-assisted Memory Protecti
 PubSub-SGX: exploiting Trusted Execution Environments for privacy-preserving publish/subscribe systems | SRDS'18 | TBA
 sgx-perf: A Performance Analysis Tool for Intel SGX Enclaves | Middleware'18 | [link](https://www.ibr.cs.tu-bs.de/users/weichbr/papers/middleware2018.pdf)
 *E*Actors: Fast and flexible trusted computing using SGX | Middleware'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18eactors.pdf)
+DelegaTEE: Brokered Delegation Using Trusted Execution Environments | USENIX Security'18| [link](https://www.usenix.org/conference/usenixsecurity18/presentation/matetic)
+Graphene-SGX: A Practical Library OS for Unmodified Applications on SGX |ATC'17| [link](https://www.usenix.org/conference/atc17/technical-sessions/presentation/tsai)
 
 
 Unpublished, tech-reports, or open-access:
