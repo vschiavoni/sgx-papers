@@ -44,6 +44,7 @@ Graphene-SGX: A Practical Library OS for Unmodified Applications on SGX |ATC'17|
 VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification Structures | ASPLOS'18 | [link](https://www.cs.utah.edu/~rajeev/pubs/asplos18.pdf)
 STANlite - a database engine for secure data processing at rack-scale level | IC2E'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18stanlite.pdf)
 EnclaveDB: A Secure Database using SGX | SP'18 |[link](https://www.computer.org/csdl/proceedings/sp/2018/4353/00/435301a405.pdf)
+Oblix: An Efﬁcient Oblivious Search Index | S&P'18 | [link](https://people.eecs.berkeley.edu/~raluca/oblix.pdf)
 ZeroTrace: Oblivious Memory Primitives from Intel SGX | NDSS'18 |[link](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_02B-4_Sasy_paper.pdf)
 OBLIVIATE: A Data Oblivious Filesystem for Intel SGX | NDSS'18 |[link](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_06A-2_Ahmad_paper.pdf)
 EndBox: Scalable Middlebox Functions Using Client-Side Trusted Execution | DSN'18 | [link](https://www.ibr.cs.tu-bs.de/users/goltzsch/papers/dsn18-endbox.pdf)
@@ -61,7 +62,6 @@ sgx-perf: A Performance Analysis Tool for Intel SGX Enclaves | Middleware'18 | [
 *E*Actors: Fast and flexible trusted computing using SGX | Middleware'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18eactors.pdf)
 DelegaTEE: Brokered Delegation Using Trusted Execution Environments | USENIX Security'18| [link](https://www.usenix.org/conference/usenixsecurity18/presentation/matetic)
 
-
 Unpublished, tech-reports, or open-access:
 
 Title |  PDF
@@ -74,3 +74,4 @@ Blockchain and Trusted Computing: Problems, Pitfalls, and a Solution for Hyperle
 DR.SGX: Hardening SGX Enclaves against Cache Attacks with Data Location Randomization|[link](https://arxiv.org/pdf/1709.09917.pdf)
 SgxPectre Attacks: Stealing Intel Secrets from SGX Enclaves via Speculative Execution | [link](https://arxiv.org/pdf/1802.09085.pdf)
 PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verification | [link](https://eprint.iacr.org/2018/902.pdf)
+ObliDB: Oblivious Query Processing using Hardware Enclaves | [link](https://arxiv.org/abs/1710.00458)
