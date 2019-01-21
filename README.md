@@ -61,6 +61,7 @@ PubSub-SGX: exploiting Trusted Execution Environments for privacy-preserving pub
 sgx-perf: A Performance Analysis Tool for Intel SGX Enclaves | Middleware'18 | [link](https://www.ibr.cs.tu-bs.de/users/weichbr/papers/middleware2018.pdf)
 *E*Actors: Fast and flexible trusted computing using SGX | Middleware'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18eactors.pdf)
 DelegaTEE: Brokered Delegation Using Trusted Execution Environments | USENIX Security'18| [link](https://www.usenix.org/conference/usenixsecurity18/presentation/matetic)
+A Practical Intel SGX Setting for Linux Containers in the Cloud | CODASPY'19 | [link](https://github.com/daveti/papers/blob/master/codaspy19/lxcsgx.pdf)
 
 Unpublished, tech-reports, or open-access:
 
