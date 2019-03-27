@@ -79,3 +79,4 @@ DR.SGX: Hardening SGX Enclaves against Cache Attacks with Data Location Randomiz
 SgxPectre Attacks: Stealing Intel Secrets from SGX Enclaves via Speculative Execution | [link](https://arxiv.org/pdf/1802.09085.pdf)
 PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verification | [link](https://eprint.iacr.org/2018/902.pdf)
 ObliDB: Oblivious Query Processing using Hardware Enclaves | [link](https://arxiv.org/abs/1710.00458)
+Practical Enclave Malware with Intel SGX | [link](https://arxiv.org/abs/1902.03256)
