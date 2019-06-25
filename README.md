@@ -80,3 +80,5 @@ SgxPectre Attacks: Stealing Intel Secrets from SGX Enclaves via Speculative Exec
 PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verification | [link](https://eprint.iacr.org/2018/902.pdf)
 ObliDB: Oblivious Query Processing using Hardware Enclaves | [link](https://arxiv.org/abs/1710.00458)
 Practical Enclave Malware with Intel SGX | [link](https://arxiv.org/abs/1902.03256)
+Secure Network Interface with SGX | [link](https://github.com/fkirc/secure-network-interface-with-sgx)
+
