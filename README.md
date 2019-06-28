@@ -66,6 +66,7 @@ A Practical Intel SGX Setting for Linux Containers in the Cloud | CODASPY'19 | [
 Everything you should know about Intel SGX performance on virtualized systems | SIGMETRICS'19 | [link](https://dl.acm.org/citation.cfm?id=3311076)
 ShieldStore: Shielded In-memory Key-value Storage with SGX | EuroSys'19 | [link](https://dl.acm.org/ft_gateway.cfm?id=3303951&ftid=2045452&dwn=1&CFID=118661016&CFTOKEN=dcd51eef87239fd5-45D9165C-92ED-70D2-B821FEF1E7F9E419)
 Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware | ICLR'19 | [link](https://arxiv.org/pdf/1806.03287.pdf)
+OBFUSCURO: A Commodity Obfuscation Engine on Intel SGX|NDSS‘19|[link](https://www.ndss-symposium.org/ndss-paper/obfuscuro-a-commodity-obfuscation-engine-on-intel-sgx/)
 
 Unpublished, tech-reports, or open-access:
 
