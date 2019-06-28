@@ -44,6 +44,7 @@ Graphene-SGX: A Practical Library OS for Unmodified Applications on SGX |ATC'17|
 VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification Structures | ASPLOS'18 | [link](https://www.cs.utah.edu/~rajeev/pubs/asplos18.pdf)
 STANlite - a database engine for secure data processing at rack-scale level | IC2E'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18stanlite.pdf)
 EnclaveDB: A Secure Database using SGX | SP'18 |[link](https://www.computer.org/csdl/proceedings/sp/2018/4353/00/435301a405.pdf)
+Oblix: An Efﬁcient Oblivious Search Index | S&P'18 | [link](https://people.eecs.berkeley.edu/~raluca/oblix.pdf)
 ZeroTrace: Oblivious Memory Primitives from Intel SGX | NDSS'18 |[link](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_02B-4_Sasy_paper.pdf)
 OBLIVIATE: A Data Oblivious Filesystem for Intel SGX | NDSS'18 |[link](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_06A-2_Ahmad_paper.pdf)
 EndBox: Scalable Middlebox Functions Using Client-Side Trusted Execution | DSN'18 | [link](https://www.ibr.cs.tu-bs.de/users/goltzsch/papers/dsn18-endbox.pdf)
@@ -55,12 +56,16 @@ ShieldBox: Secure Middleboxes using Shielded Execution | SOSR'18 | [link](https:
 CYCLOSA: Decentralizing Private Web Search Through SGX-Based Browser Extensions | ICDCS'18 | [link](https://arxiv.org/abs/1805.01548)
 SGX-Aware Container Orchestration for Heterogeneous Clusters | ICDCS'18 | [link](https://arxiv.org/abs/1805.05847)
 Varys: Protecting SGX enclaves from practical side-channel attacks | ATC'18 | [link](https://www.usenix.org/system/files/conference/atc18/atc18-oleksenko.pdf)
-Security, Performance and Energy Trade-offs of Hardware-assisted Memory Protection Mechanisms | SRDS'18 | TBA
-PubSub-SGX: exploiting Trusted Execution Environments for privacy-preserving publish/subscribe systems | SRDS'18 | TBA
+Security, Performance and Energy Trade-offs of Hardware-assisted Memory Protection Mechanisms | SRDS'18 | [link](http://arxiv.org/abs/1903.04203)
+PubSub-SGX: exploiting Trusted Execution Environments for privacy-preserving publish/subscribe systems | SRDS'18 | [link](https://arxiv.org/abs/1902.09848)
 sgx-perf: A Performance Analysis Tool for Intel SGX Enclaves | Middleware'18 | [link](https://www.ibr.cs.tu-bs.de/users/weichbr/papers/middleware2018.pdf)
 *E*Actors: Fast and flexible trusted computing using SGX | Middleware'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18eactors.pdf)
 DelegaTEE: Brokered Delegation Using Trusted Execution Environments | USENIX Security'18| [link](https://www.usenix.org/conference/usenixsecurity18/presentation/matetic)
-
+Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution | USENIX Security'18 | [link](https://www.usenix.org/system/files/conference/usenixsecurity18/)
+A Practical Intel SGX Setting for Linux Containers in the Cloud | CODASPY'19 | [link](https://github.com/daveti/papers/blob/master/codaspy19/lxcsgx.pdf)
+Everything you should know about Intel SGX performance on virtualized systems | SIGMETRICS'19 | [link](https://dl.acm.org/citation.cfm?id=3311076)
+ShieldStore: Shielded In-memory Key-value Storage with SGX | EuroSys'19 | [link](https://dl.acm.org/ft_gateway.cfm?id=3303951&ftid=2045452&dwn=1&CFID=118661016&CFTOKEN=dcd51eef87239fd5-45D9165C-92ED-70D2-B821FEF1E7F9E419)
+Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware | ICLR'19 | [link](https://arxiv.org/pdf/1806.03287.pdf)
 
 Unpublished, tech-reports, or open-access:
 
@@ -74,3 +79,7 @@ Blockchain and Trusted Computing: Problems, Pitfalls, and a Solution for Hyperle
 DR.SGX: Hardening SGX Enclaves against Cache Attacks with Data Location Randomization|[link](https://arxiv.org/pdf/1709.09917.pdf)
 SgxPectre Attacks: Stealing Intel Secrets from SGX Enclaves via Speculative Execution | [link](https://arxiv.org/pdf/1802.09085.pdf)
 PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verification | [link](https://eprint.iacr.org/2018/902.pdf)
+ObliDB: Oblivious Query Processing using Hardware Enclaves | [link](https://arxiv.org/abs/1710.00458)
+Practical Enclave Malware with Intel SGX | [link](https://arxiv.org/abs/1902.03256)
+Secure Network Interface with SGX | [link](https://github.com/fkirc/secure-network-interface-with-sgx)
+
