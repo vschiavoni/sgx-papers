@@ -69,6 +69,7 @@ Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Har
 OBFUSCURO: A Commodity Obfuscation Engine on Intel SGX|NDSS‘19|[link](https://www.ndss-symposium.org/ndss-paper/obfuscuro-a-commodity-obfuscation-engine-on-intel-sgx/)
 Trust more, serverless | SysTor'19 | [link](https://dl.acm.org/citation.cfm?id=3325825)
 Clemmys: Towards Secure Remote Execution in FaaS | SysTor'19 | [link](https://dl.acm.org/citation.cfm?id=3325835)
+Using Trusted Execution Environments for Secure Stream Processing of Medical Data | DAIS'19 | [link](https://arxiv.org/abs/1906.07072)
 
 Unpublished, tech-reports, or open-access:
 
