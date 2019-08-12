@@ -71,6 +71,7 @@ Trust more, serverless | SysTor'19 | [link](https://dl.acm.org/citation.cfm?id=3
 Clemmys: Towards Secure Remote Execution in FaaS | SysTor'19 | [link](https://dl.acm.org/citation.cfm?id=3325835)
 Using Trusted Execution Environments for Secure Stream Processing of Medical Data | DAIS'19 | [link](https://arxiv.org/abs/1906.07072)
 A Hybrid Approach to Secure Function Evaluation using SGX | AsiaCCS'19 | [link](https://github.com/daveti/papers/blob/master/asiaccs19/smcsgx.pdf)
+Secured Routines: Language-based Construction of Trusted Execution Environments | ATC'19 | [link](https://www.usenix.org/system/files/atc19-ghosn_0.pdf)
 
 Unpublished, tech-reports, or open-access:
 
