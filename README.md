@@ -62,6 +62,7 @@ sgx-perf: A Performance Analysis Tool for Intel SGX Enclaves | Middleware'18 | [
 *E*Actors: Fast and flexible trusted computing using SGX | Middleware'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18eactors.pdf)
 DelegaTEE: Brokered Delegation Using Trusted Execution Environments | USENIX Security'18| [link](https://www.usenix.org/conference/usenixsecurity18/presentation/matetic)
 Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution | USENIX Security'18 | [link](https://www.usenix.org/system/files/conference/usenixsecurity18/)
+Achieving Data Dissemination with Security using FIWARE and Intel Software Guard Extensions (SGX) | ISCC'18 | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8538590)
 A Practical Intel SGX Setting for Linux Containers in the Cloud | CODASPY'19 | [link](https://github.com/daveti/papers/blob/master/codaspy19/lxcsgx.pdf)
 Everything you should know about Intel SGX performance on virtualized systems | SIGMETRICS'19 | [link](https://dl.acm.org/citation.cfm?id=3311076)
 ShieldStore: Shielded In-memory Key-value Storage with SGX | EuroSys'19 | [link](https://dl.acm.org/ft_gateway.cfm?id=3303951&ftid=2045452&dwn=1&CFID=118661016&CFTOKEN=dcd51eef87239fd5-45D9165C-92ED-70D2-B821FEF1E7F9E419)
