@@ -72,6 +72,8 @@ Clemmys: Towards Secure Remote Execution in FaaS | SysTor'19 | [link](https://dl
 Using Trusted Execution Environments for Secure Stream Processing of Medical Data | DAIS'19 | [link](https://arxiv.org/abs/1906.07072)
 A Hybrid Approach to Secure Function Evaluation using SGX | AsiaCCS'19 | [link](https://github.com/daveti/papers/blob/master/asiaccs19/smcsgx.pdf)
 Secured Routines: Language-based Construction of Trusted Execution Environments | ATC'19 | [link](https://www.usenix.org/system/files/atc19-ghosn_0.pdf)
+TEE-Perf: A Profiler for Trusted Execution Environments | DSN'19 | [link](https://ieeexplore.ieee.org/abstract/document/8809498)
+SgxPectre Attacks: Stealing Intel Secrets from SGX Enclaves via Speculative Execution | EuroS&P'19 | [link](https://ieeexplore.ieee.org/abstract/document/8809498)
 
 Unpublished, tech-reports, or open-access:
 
@@ -83,7 +85,6 @@ Proof of Luck: an Efficient Blockchain Consensus Protocol |  [link](https://arxi
 Malware Guard Extension: Using SGX to Conceal Cache Attacks |  [link](https://arxiv.org/pdf/1702.08719.pdf)
 Blockchain and Trusted Computing: Problems, Pitfalls, and a Solution for Hyperledger Fabric | [link](https://arxiv.org/abs/1805.08541)
 DR.SGX: Hardening SGX Enclaves against Cache Attacks with Data Location Randomization|[link](https://arxiv.org/pdf/1709.09917.pdf)
-SgxPectre Attacks: Stealing Intel Secrets from SGX Enclaves via Speculative Execution | [link](https://arxiv.org/pdf/1802.09085.pdf)
 PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verification | [link](https://eprint.iacr.org/2018/902.pdf)
 ObliDB: Oblivious Query Processing using Hardware Enclaves | [link](https://arxiv.org/abs/1710.00458)
 Practical Enclave Malware with Intel SGX | [link](https://arxiv.org/abs/1902.03256)
