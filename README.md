@@ -90,3 +90,4 @@ ObliDB: Oblivious Query Processing using Hardware Enclaves | [link](https://arxi
 Practical Enclave Malware with Intel SGX | [link](https://arxiv.org/abs/1902.03256)
 Secure Network Interface with SGX | [link](https://github.com/fkirc/secure-network-interface-with-sgx)
 TaLoS: Secure and Transparent TLS Termination inside SGX Enclaves | [link](http://www.doc.ic.ac.uk/research/technicalreports/2017/DTRS17-5.pdf)
+Practical Enclave Malware with Intel SGX | [link](https://arxiv.org/pdf/1902.03256.pdf)
