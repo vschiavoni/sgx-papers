@@ -9,6 +9,8 @@ Cooperation and Security Isolation of Library OSes for Multi-Process Application
 Shielding Applications from an Untrusted Cloud with Haven | TOCS'15 | [link](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-baumann.pdf)
 VC3: trustworthy data analytics in the cloud using SGX | S&P'15 | [link](http://www.ieee-security.org/TC/SP2015/papers-archived/6949a038.pdf)
 Moat: Verifying Confidentiality of Enclave Programs | CCS'15 | [link](https://people.eecs.berkeley.edu/~rsinha/research/pubs/ccs2015.pdf)
+Applying the Trustworthy Remote Entity to Privacy-Preserving Multiparty Computation: Requirements and Criteria for Large-Scale Applications | ATC'16 | [link](https://ieeexplore.ieee.org/abstract/document/7816873)
+Exploring the use of Intel SGX for Secure Many-Party Applications | SysTEX'16 | [link](https://dl.acm.org/citation.cfm?id=3007793)
 SCONE: Secure Linux Containers with Intel SGX | OSDI'16 | [link](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf)
 Ryoan: a distributed sandbox for untrusted computation on secret data. | OSDI'16 | [link](https://www.usenix.org/system/files/conference/osdi16/osdi16-hunt.pdf)
 SGX Support for Dynamic Memory Management Inside an Enclave |HASP'16|[link](http://caslab.eng.yale.edu/workshops/hasp2016/HASP16-16.pdf)
@@ -75,6 +77,7 @@ A Hybrid Approach to Secure Function Evaluation using SGX | AsiaCCS'19 | [link](
 Secured Routines: Language-based Construction of Trusted Execution Environments | ATC'19 | [link](https://www.usenix.org/system/files/atc19-ghosn_0.pdf)
 TEE-Perf: A Profiler for Trusted Execution Environments | DSN'19 | [link](https://ieeexplore.ieee.org/abstract/document/8809498)
 SgxPectre Attacks: Stealing Intel Secrets from SGX Enclaves via Speculative Execution | EuroS&P'19 | [link](https://ieeexplore.ieee.org/abstract/document/8809498)
+Managing confidentiality leaks through private algorithms on Software Guard eXtensions (SGX) enclaves: Minimised TCB on secret-code execution with Early Private Mode (EPM) | EURASIP Journal on Information Security | [link](https://link.springer.com/article/10.1186/s13635-019-0091-5)
 
 Unpublished, tech-reports, or open-access:
 
