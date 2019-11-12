@@ -78,6 +78,7 @@ Secured Routines: Language-based Construction of Trusted Execution Environments 
 TEE-Perf: A Profiler for Trusted Execution Environments | DSN'19 | [link](https://ieeexplore.ieee.org/abstract/document/8809498)
 SgxPectre Attacks: Stealing Intel Secrets from SGX Enclaves via Speculative Execution | EuroS&P'19 | [link](https://ieeexplore.ieee.org/abstract/document/8809498)
 Managing confidentiality leaks through private algorithms on Software Guard eXtensions (SGX) enclaves: Minimised TCB on secret-code execution with Early Private Mode (EPM) | EURASIP Journal on Information Security | [link](https://link.springer.com/article/10.1186/s13635-019-0091-5)
+Towards Memory Safe Enclave Programming with Rust-SGX | CCS'19 | [link](https://dl.acm.org/citation.cfm?id=3319535.3354241)
 
 Unpublished, tech-reports, or open-access:
 
