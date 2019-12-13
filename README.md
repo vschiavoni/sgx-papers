@@ -82,8 +82,9 @@ BITE: Bitcoin Lightweight Client Privacy using Trusted Execution | SEC'19 | [lin
 Towards Memory Safe Enclave Programming with Rust-SGX | CCS'19 | [link](https://dl.acm.org/citation.cfm?id=3319535.3354241)
 A Tale of Two Worlds: Assessing the Vulnerability of Enclave Shielding Runtimes | CCS'19 | [link](https://dl.acm.org/citation.cfm?id=3363206)
 OPERA: Open Remote Attestation for Intel’s Secure Enclaves | CCS'19 | [link](https://dl.acm.org/citation.cfm?id=3354220)
-AccTEE: A WebAssembly-based Two-way Sandbox for Trusted Resource Accounting | Middleware'19 | [link](https://www.ibr.cs.tu-bs.de/users/goltzsch/papers/mw19-acctee.pdf)
+AccTEE: A WebAssembly-based Two-way Sandbox for Trusted Resource Accounting | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361541)
 EnclaveCache: A Secure and Scalable Key-value Cache in Multi-tenant Clouds using Intel SGX | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361533)
+PrivaTube: Privacy-Preserving Edge-Assisted Video Streaming | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361546)
 
 Unpublished, tech-reports, or open-access:
 
