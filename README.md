@@ -87,6 +87,7 @@ BLOXY: Providing Transparent and Generic BFT-Based Ordering Services for Blockch
 AccTEE: A WebAssembly-based Two-way Sandbox for Trusted Resource Accounting | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361541)
 EnclaveCache: A Secure and Scalable Key-value Cache in Multi-tenant Clouds using Intel SGX | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361533)
 PrivaTube: Privacy-Preserving Edge-Assisted Video Streaming | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361546)
+Plundervolt: Software-based Fault Injection Attacks against Intel SGX | Oakland '20 | [link](https://www.plundervolt.com/doc/plundervolt.pdf)
 
 Unpublished, tech-reports, or open-access:
 
