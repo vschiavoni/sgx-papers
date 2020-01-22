@@ -88,6 +88,8 @@ AccTEE: A WebAssembly-based Two-way Sandbox for Trusted Resource Accounting | Mi
 EnclaveCache: A Secure and Scalable Key-value Cache in Multi-tenant Clouds using Intel SGX | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361533)
 PrivaTube: Privacy-Preserving Edge-Assisted Video Streaming | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361546)
 Plundervolt: Software-based Fault Injection Attacks against Intel SGX | Oakland '20 | [link](https://www.plundervolt.com/doc/plundervolt.pdf)
+ObliDB: Oblivious Query Processing using Secure Enclaves | VLDB'19 | [link](http://www.vldb.org/pvldb/vol13/p169-eskandarian.pdf)
+CoSMIX: A Compiler-based System for Secure Memory Instrumentation and Execution in Enclaves | USENIX ATC'19 | [link](https://www.usenix.org/system/files/atc19-orenbach.pdf)
 
 Unpublished, tech-reports, or open-access:
 
@@ -100,7 +102,6 @@ Malware Guard Extension: Using SGX to Conceal Cache Attacks |  [link](https://ar
 Blockchain and Trusted Computing: Problems, Pitfalls, and a Solution for Hyperledger Fabric | [link](https://arxiv.org/abs/1805.08541)
 DR.SGX: Hardening SGX Enclaves against Cache Attacks with Data Location Randomization|[link](https://arxiv.org/pdf/1709.09917.pdf)
 PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verification | [link](https://eprint.iacr.org/2018/902.pdf)
-ObliDB: Oblivious Query Processing using Hardware Enclaves | [link](https://arxiv.org/abs/1710.00458)
 Practical Enclave Malware with Intel SGX | [link](https://arxiv.org/abs/1902.03256)
 Secure Network Interface with SGX | [link](https://github.com/fkirc/secure-network-interface-with-sgx)
 TaLoS: Secure and Transparent TLS Termination inside SGX Enclaves | [link](http://www.doc.ic.ac.uk/research/technicalreports/2017/DTRS17-5.pdf)
