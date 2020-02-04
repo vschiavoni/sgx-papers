@@ -1,6 +1,6 @@
 # sgx-papers
 
-A cureted list of system papers using/about Intel SGX. I'll try to keep this list updated. I gladly accept PRs.
+A curated list of system papers using/about Intel SGX. I'll try to keep this list updated. I gladly accept PRs.
 
 Title | Venue | PDF
 --- | --- | ---
