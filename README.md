@@ -76,6 +76,7 @@ Clemmys: Towards Secure Remote Execution in FaaS | SysTor'19 | [link](https://dl
 Using Trusted Execution Environments for Secure Stream Processing of Medical Data | DAIS'19 | [link](https://arxiv.org/abs/1906.07072)
 A Hybrid Approach to Secure Function Evaluation using SGX | AsiaCCS'19 | [link](https://github.com/daveti/papers/blob/master/asiaccs19/smcsgx.pdf)
 Secured Routines: Language-based Construction of Trusted Execution Environments | ATC'19 | [link](https://www.usenix.org/system/files/atc19-ghosn_0.pdf)
+NeXUS: Practical and Secure Access Control on Untrusted Storage Platforms using Client-Side SGX | DSN'19 | [link](https://ieeexplore.ieee.org/document/8809505)
 TEE-Perf: A Profiler for Trusted Execution Environments | DSN'19 | [link](https://ieeexplore.ieee.org/abstract/document/8809498)
 SgxPectre Attacks: Stealing Intel Secrets from SGX Enclaves via Speculative Execution | EuroS&P'19 | [link](https://ieeexplore.ieee.org/abstract/document/8809498)
 Managing confidentiality leaks through private algorithms on Software Guard eXtensions (SGX) enclaves: Minimised TCB on secret-code execution with Early Private Mode (EPM) | EURASIP Journal on Information Security | [link](https://link.springer.com/article/10.1186/s13635-019-0091-5)
