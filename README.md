@@ -93,6 +93,7 @@ ObliDB: Oblivious Query Processing using Secure Enclaves | VLDB'19 | [link](http
 CoSMIX: A Compiler-based System for Secure Memory Instrumentation and Execution in Enclaves | USENIX ATC'19 | [link](https://www.usenix.org/system/files/atc19-orenbach.pdf)
 Computation on Encrypted Data using Dataflow Authentication | PETS'20 | [link](https://petsymposium.org/2020/files/papers/issue1/popets-2020-0002.pdf)
 Custos: Practical Tamper-Evident Auditing of Operating Systems Using Trusted Execution | NDSS'20 | [link](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24065.pdf)
+Autarky: Closing controlled channels with self-paging enclaves | EuroSys'20 | [link](https://marksilberstein.com/wp-content/uploads/2020/02/eurosys20-final310.pdf)
 
 Unpublished, tech-reports, or open-access:
 
