@@ -115,4 +115,4 @@ Practical Enclave Malware with Intel SGX | [link](https://arxiv.org/pdf/1902.032
 EncDBDB: Searchable Encrypted, Fast, Compressed, In-Memory Database using Enclaves | [link](https://arxiv.org/abs/2002.05097)
 HardIDX: Practical and Secure Index with SGX | [link](https://arxiv.org/pdf/1703.04583.pdf)
 SGAxe: How SGX Fails in Practice | [link](https://sgaxe.com/files/SGAxe.pdf)
-Secure Processors | [Part 1](https://people.csail.mit.edu/devadas/pubs/part_1.pdf) [Part 2](https://people.csail.mit.edu/devadas/pubs/part_2.pdf)
+Secure Processors | [Part 1](https://people.csail.mit.edu/devadas/pubs/part_1.pdf), [Part 2](https://people.csail.mit.edu/devadas/pubs/part_2.pdf)
