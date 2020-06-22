@@ -112,8 +112,7 @@ Practical Enclave Malware with Intel SGX | [link](https://arxiv.org/abs/1902.032
 Secure Network Interface with SGX | [link](https://github.com/fkirc/secure-network-interface-with-sgx)
 TaLoS: Secure and Transparent TLS Termination inside SGX Enclaves | [link](http://www.doc.ic.ac.uk/research/technicalreports/2017/DTRS17-5.pdf)
 Practical Enclave Malware with Intel SGX | [link](https://arxiv.org/pdf/1902.03256.pdf)
-EncDBDB: Searchable Encrypted, Fast, Compressed, In-Memory Database using Enclaves | [link](https://arxiv.org/abs/2002.05097
+EncDBDB: Searchable Encrypted, Fast, Compressed, In-Memory Database using Enclaves | [link](https://arxiv.org/abs/2002.05097)
 HardIDX: Practical and Secure Index with SGX | [link](https://arxiv.org/pdf/1703.04583.pdf)
 SGAxe: How SGX Fails in Practice | [link](https://sgaxe.com/files/SGAxe.pdf)
-Secure Processors (Part 1) | [link](https://people.csail.mit.edu/devadas/pubs/part_1.pdf)
-Secure Processors (Part 2) | [link](https://people.csail.mit.edu/devadas/pubs/part_2.pdf)
+Secure Processors | [Part 1](https://people.csail.mit.edu/devadas/pubs/part_1.pdf) [Part 2](https://people.csail.mit.edu/devadas/pubs/part_2.pdf)
