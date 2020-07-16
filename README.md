@@ -44,6 +44,7 @@ X-Search: Revisiting Private Web Search using Intel SGX | Middleware'17 | [link]
 Cache Attacks on Intel SGX | EuroSec'17 | [link](http://www.sharcs-project.eu/m/documents/papers/a02-gotzfried.pdf)
 SGXKernel: A Library Operating System Optimized for Intel SGX | CF'17 | [link](https://dl.acm.org/citation.cfm?id=3075572)
 Graphene-SGX: A Practical Library OS for Unmodified Applications on SGX |ATC'17| [link](https://www.usenix.org/conference/atc17/technical-sessions/presentation/tsai)
+HardIDX: Practical and Secure Index with SGX | DBSec'17 | [link](https://link.springer.com/chapter/10.1007/978-3-319-61176-1_22)
 VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification Structures | ASPLOS'18 | [link](https://www.cs.utah.edu/~rajeev/pubs/asplos18.pdf)
 STANlite - a database engine for secure data processing at rack-scale level | IC2E'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18stanlite.pdf)
 EnclaveDB: A Secure Database using SGX | SP'18 |[link](https://www.computer.org/csdl/proceedings/sp/2018/4353/00/435301a405.pdf)
