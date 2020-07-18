@@ -100,6 +100,7 @@ COIN Attacks: On Insecurity of Enclave Untrusted Interfaces in SGX | ASPLOS'20 |
 Occlum: Secure and Efficient Multitasking Inside a Single Enclave of Intel SGX | ASPLOS'20 | [link](https://dl.acm.org/doi/pdf/10.1145/3373376.3378469)
 MPTEE: Bringing Flexible and Efficient Memory Protection to Intel SGX | EuroSys'20 | [link](https://dl.acm.org/doi/pdf/10.1145/3342195.3387536)
 Autarky: Closing controlled channels with self-paging enclaves | EuroSys'20 | [link](https://marksilberstein.com/wp-content/uploads/2020/02/eurosys20-final310.pdf)
+Trust management as a service: Enabling trusted execution in the face of Byzantine stakeholders | DSN'20 | [link](https://arxiv.org/abs/2003.14099)
 
 Unpublished, tech-reports, or open-access:
 
