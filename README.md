@@ -55,6 +55,7 @@ EndBox: Scalable Middlebox Functions Using Client-Side Trusted Execution | DSN'1
 Troxy: Transparent Access to Byzantine Fault-Tolerant Systems | DSN'18 | [link](https://ieeexplore.ieee.org/abstract/document/8416471)
 LibSEAL: Revealing Service Integrity Violations Using Trusted Execution | EuroSys'18 | [link](https://dl.acm.org/citation.cfm?id=3190547)
 PESOS: Policy Enhanced Secure Object Store | EuroSys'18 | [link](https://dl.acm.org/citation.cfm?id=3190518)
+Bring the Missing Jigsaw Back: TrustedClock for SGX Enclaves | EuroSec'18 | [link](https://dl.acm.org/doi/pdf/10.1145/3193111.3193119)
 Migrating SGX Enclaves with Persistent State | DSN'18 | [link](https://arxiv.org/abs/1803.11021)
 SafeBricks: Shielding Network Functions in the Cloud | NSDI'18 | [link](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-poddar.pdf)
 ShieldBox: Secure Middleboxes using Shielded Execution | SOSR'18 | [link](https://conferences.sigcomm.org/sosr/2018/sosr18-finals/sosr18-final12.pdf)
@@ -68,6 +69,7 @@ sgx-perf: A Performance Analysis Tool for Intel SGX Enclaves | Middleware'18 | [
 DelegaTEE: Brokered Delegation Using Trusted Execution Environments | USENIX Security'18| [link](https://www.usenix.org/conference/usenixsecurity18/presentation/matetic)
 Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution | USENIX Security'18 | [link](https://www.usenix.org/system/files/conference/usenixsecurity18/)
 Achieving Data Dissemination with Security using FIWARE and Intel Software Guard Extensions (SGX) | ISCC'18 | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8538590)
+Scaling Intel® Software Guard Extensions Applications with Intel® SGX Card | HASP@ISCA'19 | [link](https://dl.acm.org/doi/pdf/10.1145/3337167.3337173)
 A Practical Intel SGX Setting for Linux Containers in the Cloud | CODASPY'19 | [link](https://github.com/daveti/papers/blob/master/codaspy19/lxcsgx.pdf)
 Everything you should know about Intel SGX performance on virtualized systems | SIGMETRICS'19 | [link](https://dl.acm.org/citation.cfm?id=3311076)
 ShieldStore: Shielded In-memory Key-value Storage with SGX | EuroSys'19 | [link](https://dl.acm.org/ft_gateway.cfm?id=3303951&ftid=2045452&dwn=1&CFID=118661016&CFTOKEN=dcd51eef87239fd5-45D9165C-92ED-70D2-B821FEF1E7F9E419)
@@ -91,6 +93,7 @@ BLOXY: Providing Transparent and Generic BFT-Based Ordering Services for Blockch
 AccTEE: A WebAssembly-based Two-way Sandbox for Trusted Resource Accounting | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361541)
 EnclaveCache: A Secure and Scalable Key-value Cache in Multi-tenant Clouds using Intel SGX | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361533)
 PrivaTube: Privacy-Preserving Edge-Assisted Video Streaming | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361546)
+Teechain: a secure payment network with asynchronous blockchain access | SOSP'19 | [link](https://dl.acm.org/doi/pdf/10.1145/3341301.3359627)
 Plundervolt: Software-based Fault Injection Attacks against Intel SGX | Oakland '20 | [link](https://www.plundervolt.com/doc/plundervolt.pdf)
 ObliDB: Oblivious Query Processing using Secure Enclaves | VLDB'19 | [link](http://www.vldb.org/pvldb/vol13/p169-eskandarian.pdf)
 CoSMIX: A Compiler-based System for Secure Memory Instrumentation and Execution in Enclaves | USENIX ATC'19 | [link](https://www.usenix.org/system/files/atc19-orenbach.pdf)
@@ -101,6 +104,8 @@ Occlum: Secure and Efficient Multitasking Inside a Single Enclave of Intel SGX |
 MPTEE: Bringing Flexible and Efficient Memory Protection to Intel SGX | EuroSys'20 | [link](https://dl.acm.org/doi/pdf/10.1145/3342195.3387536)
 Autarky: Closing controlled channels with self-paging enclaves | EuroSys'20 | [link](https://marksilberstein.com/wp-content/uploads/2020/02/eurosys20-final310.pdf)
 Trust management as a service: Enabling trusted execution in the face of Byzantine stakeholders | DSN'20 | [link](https://arxiv.org/abs/2003.14099)
+Civet: An Efficient Java Partitioning Framework for Hardware Enclaves | SEC'20 | [link](https://www.usenix.org/system/files/sec20spring_tsai_prepub.pdf)
+BesFS: A POSIX Filesystem for Enclaves with a Mechanized Safety Proof | SEC'20 | [link](https://www.usenix.org/system/files/sec20-shinde.pdf)
 
 Unpublished, tech-reports, or open-access:
 
