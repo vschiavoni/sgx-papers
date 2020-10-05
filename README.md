@@ -105,6 +105,7 @@ Occlum: Secure and Efficient Multitasking Inside a Single Enclave of Intel SGX |
 MPTEE: Bringing Flexible and Efficient Memory Protection to Intel SGX | EuroSys'20 | [link](https://dl.acm.org/doi/pdf/10.1145/3342195.3387536)
 Autarky: Closing controlled channels with self-paging enclaves | EuroSys'20 | [link](https://marksilberstein.com/wp-content/uploads/2020/02/eurosys20-final310.pdf)
 Trust management as a service: Enabling trusted execution in the face of Byzantine stakeholders | DSN'20 | [link](https://arxiv.org/abs/2003.14099)
+SeGShare: Secure Group File Sharing in the Cloud using Enclaves | DSN'20 | [link](http://www.fkerschbaum.org/dsn20.pdf)
 Civet: An Efficient Java Partitioning Framework for Hardware Enclaves | SEC'20 | [link](https://www.usenix.org/system/files/sec20spring_tsai_prepub.pdf)
 BesFS: A POSIX Filesystem for Enclaves with a Mechanized Safety Proof | SEC'20 | [link](https://www.usenix.org/system/files/sec20-shinde.pdf)
 
