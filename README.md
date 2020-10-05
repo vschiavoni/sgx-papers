@@ -71,6 +71,7 @@ Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-O
 Achieving Data Dissemination with Security using FIWARE and Intel Software Guard Extensions (SGX) | ISCC'18 | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8538590)
 Scaling Intel® Software Guard Extensions Applications with Intel® SGX Card | HASP@ISCA'19 | [link](https://dl.acm.org/doi/pdf/10.1145/3337167.3337173)
 A Practical Intel SGX Setting for Linux Containers in the Cloud | CODASPY'19 | [link](https://github.com/daveti/papers/blob/master/codaspy19/lxcsgx.pdf)
+Careful-Packing: A Practical and Scalable Anti-Tampering Software Protection enforced by Trusted Computing | CODASPY'19  | [link](https://dl.acm.org/doi/abs/10.1145/3292006.3300029)
 Everything you should know about Intel SGX performance on virtualized systems | SIGMETRICS'19 | [link](https://dl.acm.org/citation.cfm?id=3311076)
 ShieldStore: Shielded In-memory Key-value Storage with SGX | EuroSys'19 | [link](https://dl.acm.org/ft_gateway.cfm?id=3303951&ftid=2045452&dwn=1&CFID=118661016&CFTOKEN=dcd51eef87239fd5-45D9165C-92ED-70D2-B821FEF1E7F9E419)
 Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware | ICLR'19 | [link](https://arxiv.org/pdf/1806.03287.pdf)
