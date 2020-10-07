@@ -99,6 +99,7 @@ Plundervolt: Software-based Fault Injection Attacks against Intel SGX | Oakland 
 ObliDB: Oblivious Query Processing using Secure Enclaves | VLDB'19 | [link](http://www.vldb.org/pvldb/vol13/p169-eskandarian.pdf)
 CoSMIX: A Compiler-based System for Secure Memory Instrumentation and Execution in Enclaves | USENIX ATC'19 | [link](https://www.usenix.org/system/files/atc19-orenbach.pdf)
 Computation on Encrypted Data using Dataflow Authentication | PETS'20 | [link](https://petsymposium.org/2020/files/papers/issue1/popets-2020-0002.pdf)
+A Tale of Two Trees: One Writes, and Other Reads; Optimized Oblivious Accesses to Bitcoin and other UTXO-based Blockchains | PETS'20 | [link](https://petsymposium.org/2020/files/papers/issue2/popets-2020-0039.pdf)
 Custos: Practical Tamper-Evident Auditing of Operating Systems Using Trusted Execution | NDSS'20 | [link](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24065.pdf)
 COIN Attacks: On Insecurity of Enclave Untrusted Interfaces in SGX | ASPLOS'20 | [link](https://dl.acm.org/doi/pdf/10.1145/3373376.3378486)
 Occlum: Secure and Efficient Multitasking Inside a Single Enclave of Intel SGX | ASPLOS'20 | [link](https://dl.acm.org/doi/pdf/10.1145/3373376.3378469)
