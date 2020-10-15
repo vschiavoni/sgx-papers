@@ -108,6 +108,7 @@ Trust management as a service: Enabling trusted execution in the face of Byzanti
 SeGShare: Secure Group File Sharing in the Cloud using Enclaves | DSN'20 | [link](http://www.fkerschbaum.org/dsn20.pdf)
 Civet: An Efficient Java Partitioning Framework for Hardware Enclaves | SEC'20 | [link](https://www.usenix.org/system/files/sec20spring_tsai_prepub.pdf)
 BesFS: A POSIX Filesystem for Enclaves with a Mechanized Safety Proof | SEC'20 | [link](https://www.usenix.org/system/files/sec20-shinde.pdf)
+SGX-MR: Regulating Dataflows for Protecting Access Patterns of Data-Intensive SGX Applications | PETS'21 | [link](https://arxiv.org/abs/2009.03518)
 
 Unpublished, tech-reports, or open-access:
 
