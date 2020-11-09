@@ -109,6 +109,7 @@ SeGShare: Secure Group File Sharing in the Cloud using Enclaves | DSN'20 | [link
 Civet: An Efficient Java Partitioning Framework for Hardware Enclaves | SEC'20 | [link](https://www.usenix.org/system/files/sec20spring_tsai_prepub.pdf)
 BesFS: A POSIX Filesystem for Enclaves with a Mechanized Safety Proof | SEC'20 | [link](https://www.usenix.org/system/files/sec20-shinde.pdf)
 TEEMon: A continuous performance monitoring framework for TEEs | Middleware'20 | TBA
+Vessels: Efficient and Scalable Deep Learning Prediction on Trusted Processors | SoCC'20 | [link](https://github.com/daveti/papers/blob/master/socc20/vessels.pdf)
 
 
 Unpublished, tech-reports, or open-access:
