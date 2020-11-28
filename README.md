@@ -117,6 +117,7 @@ Unpublished, tech-reports, or open-access:
 Title |  PDF
 --- |  ---
 Intel SGX Explained |  [link](https://eprint.iacr.org/2016/086.pdf)
+Trust is in the Keys of the Beholder: Extending SGX Autonomy and Anonymity |  [link](https://www.idc.ac.il/en/schools/cs/research/documents/jackson-msc-thesis.pdf)
 A Blockchain Based on Gossip? – a Position Paper|  [link](https://www.zurich.ibm.com/dccl/papers/renesse_dccl.pdf)
 Proof of Luck: an Efficient Blockchain Consensus Protocol |  [link](https://arxiv.org/pdf/1703.05435.pdf)
 Malware Guard Extension: Using SGX to Conceal Cache Attacks |  [link](https://arxiv.org/pdf/1702.08719.pdf)
