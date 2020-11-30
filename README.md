@@ -110,7 +110,7 @@ Civet: An Efficient Java Partitioning Framework for Hardware Enclaves | SEC'20 |
 BesFS: A POSIX Filesystem for Enclaves with a Mechanized Safety Proof | SEC'20 | [link](https://www.usenix.org/system/files/sec20-shinde.pdf)
 TEEMon: A continuous performance monitoring framework for TEEs | Middleware'20 | TBA
 Vessels: Efficient and Scalable Deep Learning Prediction on Trusted Processors | SoCC'20 | [link](https://github.com/daveti/papers/blob/master/socc20/vessels.pdf)
-
+PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verification | CODASPY'20 | [link](https://eprint.iacr.org/2018/902.pdf)
 
 Unpublished, tech-reports, or open-access:
 
@@ -122,7 +122,6 @@ Proof of Luck: an Efficient Blockchain Consensus Protocol |  [link](https://arxi
 Malware Guard Extension: Using SGX to Conceal Cache Attacks |  [link](https://arxiv.org/pdf/1702.08719.pdf)
 Blockchain and Trusted Computing: Problems, Pitfalls, and a Solution for Hyperledger Fabric | [link](https://arxiv.org/abs/1805.08541)
 DR.SGX: Hardening SGX Enclaves against Cache Attacks with Data Location Randomization|[link](https://arxiv.org/pdf/1709.09917.pdf)
-PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verification | [link](https://eprint.iacr.org/2018/902.pdf)
 Practical Enclave Malware with Intel SGX | [link](https://arxiv.org/abs/1902.03256)
 Secure Network Interface with SGX | [link](https://github.com/fkirc/secure-network-interface-with-sgx)
 TaLoS: Secure and Transparent TLS Termination inside SGX Enclaves | [link](http://www.doc.ic.ac.uk/research/technicalreports/2017/DTRS17-5.pdf)
