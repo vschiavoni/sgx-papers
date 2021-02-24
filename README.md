@@ -111,6 +111,8 @@ BesFS: A POSIX Filesystem for Enclaves with a Mechanized Safety Proof | SEC'20 |
 TEEMon: A continuous performance monitoring framework for TEEs | Middleware'20 | TBA
 Vessels: Efficient and Scalable Deep Learning Prediction on Trusted Processors | SoCC'20 | [link](https://github.com/daveti/papers/blob/master/socc20/vessels.pdf)
 PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verification | CODASPY'20 | [link](https://eprint.iacr.org/2018/902.pdf)
+Towards Formalization of Enhanced Privacy ID (EPID)-based Remote Attestation in Intel SGX | DSD'20 | [link](https://ieeexplore.ieee.org/document/9217791)
+Formal Foundations for Intel SGX Data Center Attestation Primitives | ICFEM'20 | [link](https://link.springer.com/chapter/10.1007/978-3-030-63406-3_16)
 
 Unpublished, tech-reports, or open-access:
 
