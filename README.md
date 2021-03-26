@@ -62,6 +62,7 @@ ShieldBox: Secure Middleboxes using Shielded Execution | SOSR'18 | [link](https:
 CYCLOSA: Decentralizing Private Web Search Through SGX-Based Browser Extensions | ICDCS'18 | [link](https://arxiv.org/abs/1805.01548)
 SGX-Aware Container Orchestration for Heterogeneous Clusters | ICDCS'18 | [link](https://arxiv.org/abs/1805.05847)
 Varys: Protecting SGX enclaves from practical side-channel attacks | ATC'18 | [link](https://www.usenix.org/system/files/conference/atc18/atc18-oleksenko.pdf)
+Mitigating Branch-Shadowing Attacks on Intel SGX using Control Flow Randomization | SysTEX'18 | [link](https://dl.acm.org/doi/pdf/10.1145/3268935.3268940)
 Security, Performance and Energy Trade-offs of Hardware-assisted Memory Protection Mechanisms | SRDS'18 | [link](http://arxiv.org/abs/1903.04203)
 PubSub-SGX: exploiting Trusted Execution Environments for privacy-preserving publish/subscribe systems | SRDS'18 | [link](https://arxiv.org/abs/1902.09848)
 sgx-perf: A Performance Analysis Tool for Intel SGX Enclaves | Middleware'18 | [link](https://www.ibr.cs.tu-bs.de/users/weichbr/papers/middleware2018.pdf)
