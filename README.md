@@ -91,6 +91,7 @@ BITE: Bitcoin Lightweight Client Privacy using Trusted Execution | SEC'19 | [lin
 Towards Memory Safe Enclave Programming with Rust-SGX | CCS'19 | [link](https://dl.acm.org/citation.cfm?id=3319535.3354241)
 A Tale of Two Worlds: Assessing the Vulnerability of Enclave Shielding Runtimes | CCS'19 | [link](https://dl.acm.org/citation.cfm?id=3363206)
 OPERA: Open Remote Attestation for Intel’s Secure Enclaves | CCS'19 | [link](https://dl.acm.org/citation.cfm?id=3354220)
+LightBox: Full-stack Protected Stateful Middlebox at Lightning Speed | CCS'19 | [link](https://dl.acm.org/doi/10.1145/3319535.3339814)
 BLOXY: Providing Transparent and Generic BFT-Based Ordering Services for Blockchains | SRDS'19 | [link](https://www.ibr.cs.tu-bs.de/users/ruesch/papers/ruesch-srds19.pdf)
 AccTEE: A WebAssembly-based Two-way Sandbox for Trusted Resource Accounting | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361541)
 EnclaveCache: A Secure and Scalable Key-value Cache in Multi-tenant Clouds using Intel SGX | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361533)
@@ -110,6 +111,7 @@ SeGShare: Secure Group File Sharing in the Cloud using Enclaves | DSN'20 | [link
 Civet: An Efficient Java Partitioning Framework for Hardware Enclaves | SEC'20 | [link](https://www.usenix.org/system/files/sec20spring_tsai_prepub.pdf)
 BesFS: A POSIX Filesystem for Enclaves with a Mechanized Safety Proof | SEC'20 | [link](https://www.usenix.org/system/files/sec20-shinde.pdf)
 TEEMon: A continuous performance monitoring framework for TEEs | Middleware'20 | TBA
+secureTF: A Secure TensorFlow Framework | Middleware'20 | [link](https://dl.acm.org/doi/10.1145/3423211.3425687)
 Vessels: Efficient and Scalable Deep Learning Prediction on Trusted Processors | SoCC'20 | [link](https://github.com/daveti/papers/blob/master/socc20/vessels.pdf)
 PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verification | CODASPY'20 | [link](https://eprint.iacr.org/2018/902.pdf)
 Towards Formalization of Enhanced Privacy ID (EPID)-based Remote Attestation in Intel SGX | DSD'20 | [link](https://ieeexplore.ieee.org/document/9217791)
