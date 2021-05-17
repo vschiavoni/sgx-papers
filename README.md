@@ -117,6 +117,7 @@ PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verifica
 Towards Formalization of Enhanced Privacy ID (EPID)-based Remote Attestation in Intel SGX | DSD'20 | [link](https://ieeexplore.ieee.org/document/9217791)
 Formal Foundations for Intel SGX Data Center Attestation Primitives | ICFEM'20 | [link](https://link.springer.com/chapter/10.1007/978-3-030-63406-3_16)
 Spons & Shields: Practical Isolation for Trusted Execution | VEE'21 | [link](https://lsds.doc.ic.ac.uk/sites/default/files/sartakov%402021ssf.pdf)
+Aria: Tolerating Skewed Workloads in Secure In-memory Key-value Stores | ICDE'21 | [link](http://storage.cs.tsinghua.edu.cn/papers/icde21-aria.pdf)
 
 Unpublished, tech-reports, or open-access:
 
