@@ -118,6 +118,7 @@ Towards Formalization of Enhanced Privacy ID (EPID)-based Remote Attestation in 
 Formal Foundations for Intel SGX Data Center Attestation Primitives | ICFEM'20 | [link](https://link.springer.com/chapter/10.1007/978-3-030-63406-3_16)
 Spons & Shields: Practical Isolation for Trusted Execution | VEE'21 | [link](https://lsds.doc.ic.ac.uk/sites/default/files/sartakov%402021ssf.pdf)
 Aria: Tolerating Skewed Workloads in Secure In-memory Key-value Stores | ICDE'21 | [link](http://storage.cs.tsinghua.edu.cn/papers/icde21-aria.pdf)
+TWINE: An Embedded Trusted Runtime for WebAssembly | ICDE'21 | [link](https://arxiv.org/pdf/2103.15860.pdf)
 
 Unpublished, tech-reports, or open-access:
 
