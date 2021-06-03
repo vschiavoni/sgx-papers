@@ -117,6 +117,7 @@ PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verifica
 Towards Formalization of Enhanced Privacy ID (EPID)-based Remote Attestation in Intel SGX | DSD'20 | [link](https://ieeexplore.ieee.org/document/9217791)
 Formal Foundations for Intel SGX Data Center Attestation Primitives | ICFEM'20 | [link](https://link.springer.com/chapter/10.1007/978-3-030-63406-3_16)
 EnclavePDP: A General Framework to Verify Data Integrity in Cloud Using Intel SGX | RAID'20 | [link](https://www.usenix.org/system/files/raid20-he.pdf)
+Stargazing in the Dark: Secure Skyline Queries with SGX | DASFAA'20 | [link](https://link.springer.com/chapter/10.1007/978-3-030-59419-0_20) 
 Spons & Shields: Practical Isolation for Trusted Execution | VEE'21 | [link](https://lsds.doc.ic.ac.uk/sites/default/files/sartakov%402021ssf.pdf)
 Aria: Tolerating Skewed Workloads in Secure In-memory Key-value Stores | ICDE'21 | [link](http://storage.cs.tsinghua.edu.cn/papers/icde21-aria.pdf)
 TWINE: An Embedded Trusted Runtime for WebAssembly | ICDE'21 | [link](https://arxiv.org/pdf/2103.15860.pdf)
