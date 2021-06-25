@@ -118,6 +118,7 @@ Towards Formalization of Enhanced Privacy ID (EPID)-based Remote Attestation in 
 Formal Foundations for Intel SGX Data Center Attestation Primitives | ICFEM'20 | [link](https://link.springer.com/chapter/10.1007/978-3-030-63406-3_16)
 EnclavePDP: A General Framework to Verify Data Integrity in Cloud Using Intel SGX | RAID'20 | [link](https://www.usenix.org/system/files/raid20-he.pdf)
 TRUSTORE: Side-Channel Resistant Storage for SGX using Intel Hybrid CPU-FPGA | CCS'20 | [link](https://dl.acm.org/doi/pdf/10.1145/3372297.3417265)
+Visor: Privacy-Preserving Video Analytics as a Cloud Service | USENIX Security'20 | [link](https://www.usenix.org/system/files/sec20-poddar.pdf)
 Spons & Shields: Practical Isolation for Trusted Execution | VEE'21 | [link](https://lsds.doc.ic.ac.uk/sites/default/files/sartakov%402021ssf.pdf)
 Aria: Tolerating Skewed Workloads in Secure In-memory Key-value Stores | ICDE'21 | [link](http://storage.cs.tsinghua.edu.cn/papers/icde21-aria.pdf)
 TWINE: An Embedded Trusted Runtime for WebAssembly | ICDE'21 | [link](https://arxiv.org/pdf/2103.15860.pdf)
