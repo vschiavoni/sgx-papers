@@ -2,6 +2,9 @@
 
 A curated list of system papers using/about Intel SGX. I'll try to keep this list updated. I gladly accept PRs.
 
+Do you use or are you familiar with Intel SGX? If yes, we’d appreciate you could fill in this anonymous survey, 
+it takes less than 60 seconds https://forms.gle/HdHqXiBdRp98CU6y7 
+
 Title | Venue | PDF
 --- | --- | ---
 Using Innovative Instructions to Create Trustworthy Software Solutions | HASP@ISCA'13 | [link](http://css.csail.mit.edu/6.858/2015/readings/sgx.pdf)
@@ -125,6 +128,9 @@ CHANCEL: Efficient Multi-client Isolation Under Adversarial Programs | NDSS'21 |
 VoltPillager: Hardware-based fault injection attacks against Intel SGX Enclaves using the SVID voltage scaling interface | USENIX Security'21 | [link](https://www.usenix.org/system/files/sec21summer_chen-zitai.pdf)
 SGXoMeter: Open and Modular Benchmarking for Intel SGX | EuroSec'21 | [link](https://dl.acm.org/doi/pdf/10.1145/3447852.3458722)
 Building enclave-native storage engines for practical encrypted databases | VLDB'21 | [link](http://www.vldb.org/pvldb/vol14/p1019-sun.pdf)
+
+Do you use or are you familiar with Intel SGX? If yes, we’d appreciate you could fill in this anonymous survey, 
+it takes less than 60 seconds https://forms.gle/HdHqXiBdRp98CU6y7 
 
 Unpublished, tech-reports, or open-access:
 
