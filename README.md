@@ -73,6 +73,7 @@ sgx-perf: A Performance Analysis Tool for Intel SGX Enclaves | Middleware'18 | [
 DelegaTEE: Brokered Delegation Using Trusted Execution Environments | USENIX Security'18| [link](https://www.usenix.org/conference/usenixsecurity18/presentation/matetic)
 Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-Order Execution | USENIX Security'18 | [link](https://www.usenix.org/system/files/conference/usenixsecurity18/)
 Achieving Data Dissemination with Security using FIWARE and Intel Software Guard Extensions (SGX) | ISCC'18 | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8538590)
+Using Intel SGX to Protect Authentication Credentials in an Untrusted Operating System | ISCC'18 |[link](https://ieeexplore.ieee.org/document/8538470)
 Scaling Intel® Software Guard Extensions Applications with Intel® SGX Card | HASP@ISCA'19 | [link](https://dl.acm.org/doi/pdf/10.1145/3337167.3337173)
 A Practical Intel SGX Setting for Linux Containers in the Cloud | CODASPY'19 | [link](https://github.com/daveti/papers/blob/master/codaspy19/lxcsgx.pdf)
 Careful-Packing: A Practical and Scalable Anti-Tampering Software Protection enforced by Trusted Computing | CODASPY'19  | [link](https://dl.acm.org/doi/abs/10.1145/3292006.3300029)
@@ -121,6 +122,8 @@ Towards Formalization of Enhanced Privacy ID (EPID)-based Remote Attestation in 
 Formal Foundations for Intel SGX Data Center Attestation Primitives | ICFEM'20 | [link](https://link.springer.com/chapter/10.1007/978-3-030-63406-3_16)
 EnclavePDP: A General Framework to Verify Data Integrity in Cloud Using Intel SGX | RAID'20 | [link](https://www.usenix.org/system/files/raid20-he.pdf)
 TRUSTORE: Side-Channel Resistant Storage for SGX using Intel Hybrid CPU-FPGA | CCS'20 | [link](https://dl.acm.org/doi/pdf/10.1145/3372297.3417265)
+Using a Shared SGX Enclave in the UNIX PAM Authentication Service | SysCon'20 | [link](https://ieeexplore.ieee.org/document/9275837)
+Secure Cloud Storage with Client-Side Encryption Using a Trusted Execution Environment | CLOSER'20 | [link](https://www.scitepress.org/Link.aspx?doi=10.5220/0009130600310043)
 Spons & Shields: Practical Isolation for Trusted Execution | VEE'21 | [link](https://lsds.doc.ic.ac.uk/sites/default/files/sartakov%402021ssf.pdf)
 Aria: Tolerating Skewed Workloads in Secure In-memory Key-value Stores | ICDE'21 | [link](http://storage.cs.tsinghua.edu.cn/papers/icde21-aria.pdf)
 TWINE: An Embedded Trusted Runtime for WebAssembly | ICDE'21 | [link](https://arxiv.org/pdf/2103.15860.pdf)
@@ -128,6 +131,9 @@ CHANCEL: Efficient Multi-client Isolation Under Adversarial Programs | NDSS'21 |
 VoltPillager: Hardware-based fault injection attacks against Intel SGX Enclaves using the SVID voltage scaling interface | USENIX Security'21 | [link](https://www.usenix.org/system/files/sec21summer_chen-zitai.pdf)
 SGXoMeter: Open and Modular Benchmarking for Intel SGX | EuroSec'21 | [link](https://dl.acm.org/doi/pdf/10.1145/3447852.3458722)
 Building enclave-native storage engines for practical encrypted databases | VLDB'21 | [link](http://www.vldb.org/pvldb/vol14/p1019-sun.pdf)
+Trusted Client-Side Encryption for Cloud Storage | CCIS | [link](https://link.springer.com/chapter/10.1007%2F978-3-030-72369-9_1)
+Intel Software Guard Extensions in Internet of Things Scenarios: A Systematic Mapping Study | FiCloud'21 | [link](https://coens.dv.utfpr.edu.br/will/wp-content/uploads/2021/06/FiCloud2021.pdf)
+Trusted Inter-Process Communication Using Hardware Enclaves | SysCon'21 | [link](https://coens.dv.utfpr.edu.br/will/wp-content/uploads/2021/02/SYSCON_2021.pdf)
 
 Do you use or are you familiar with Intel SGX? If yes, we’d appreciate you could fill in this anonymous survey, 
 it takes less than 60 seconds https://forms.gle/HdHqXiBdRp98CU6y7 
