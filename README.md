@@ -128,6 +128,9 @@ CHANCEL: Efficient Multi-client Isolation Under Adversarial Programs | NDSS'21 |
 VoltPillager: Hardware-based fault injection attacks against Intel SGX Enclaves using the SVID voltage scaling interface | USENIX Security'21 | [link](https://www.usenix.org/system/files/sec21summer_chen-zitai.pdf)
 SGXoMeter: Open and Modular Benchmarking for Intel SGX | EuroSec'21 | [link](https://dl.acm.org/doi/pdf/10.1145/3447852.3458722)
 Building enclave-native storage engines for practical encrypted databases | VLDB'21 | [link](http://www.vldb.org/pvldb/vol14/p1019-sun.pdf)
+Trusted Execution Environments for Cloud/Fog-based Internet of Things Applications | CLOSER 2021 | [link](https://www.scitepress.org/Papers/2021/104807/)
+Formal Verification of a Trusted Execution Environment-based Architecture for IoT Applications| IEEE IoT Journal | [link](https://ieeexplore.ieee.org/document/9424184)
+Systematic Literature Review on the Use of Trusted Execution Environments to Protect Cloud/Fog-Based Internet of Things Applications | IEEE Access | [link](https://ieeexplore.ieee.org/document/9445012)
 
 Do you use or are you familiar with Intel SGX? If yes, we’d appreciate you could fill in this anonymous survey, 
 it takes less than 60 seconds https://forms.gle/HdHqXiBdRp98CU6y7 
