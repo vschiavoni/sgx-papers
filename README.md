@@ -2,8 +2,7 @@
 
 A curated list of system papers using/about Intel SGX. I'll try to keep this list updated. I gladly accept PRs.
 
-Do you use or are you familiar with Intel SGX? If yes, we’d appreciate you could fill in this anonymous survey, 
-it takes less than 60 seconds https://forms.gle/HdHqXiBdRp98CU6y7 
+*Are you a female researcher working in the areas of TEEs? We are looking for experts to help with a Workshop TPC. Please get in touch!* 
 
 Title | Venue | PDF
 --- | --- | ---
