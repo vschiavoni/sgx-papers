@@ -2,6 +2,8 @@
 
 A curated list of system papers using/about Intel SGX. I'll try to keep this list updated. I gladly accept PRs.
 
+*Are you a female researcher working in the area of TEEs? We are looking for experts to help with a Workshop TPC. Please get in touch!* 
+
 Title | Venue | PDF
 --- | --- | ---
 Using Innovative Instructions to Create Trustworthy Software Solutions | HASP@ISCA'13 | [link](http://css.csail.mit.edu/6.858/2015/readings/sgx.pdf)
@@ -62,6 +64,7 @@ ShieldBox: Secure Middleboxes using Shielded Execution | SOSR'18 | [link](https:
 CYCLOSA: Decentralizing Private Web Search Through SGX-Based Browser Extensions | ICDCS'18 | [link](https://arxiv.org/abs/1805.01548)
 SGX-Aware Container Orchestration for Heterogeneous Clusters | ICDCS'18 | [link](https://arxiv.org/abs/1805.05847)
 Varys: Protecting SGX enclaves from practical side-channel attacks | ATC'18 | [link](https://www.usenix.org/system/files/conference/atc18/atc18-oleksenko.pdf)
+Mitigating Branch-Shadowing Attacks on Intel SGX using Control Flow Randomization | SysTEX'18 | [link](https://dl.acm.org/doi/pdf/10.1145/3268935.3268940)
 Security, Performance and Energy Trade-offs of Hardware-assisted Memory Protection Mechanisms | SRDS'18 | [link](http://arxiv.org/abs/1903.04203)
 PubSub-SGX: exploiting Trusted Execution Environments for privacy-preserving publish/subscribe systems | SRDS'18 | [link](https://arxiv.org/abs/1902.09848)
 sgx-perf: A Performance Analysis Tool for Intel SGX Enclaves | Middleware'18 | [link](https://www.ibr.cs.tu-bs.de/users/weichbr/papers/middleware2018.pdf)
@@ -90,6 +93,7 @@ BITE: Bitcoin Lightweight Client Privacy using Trusted Execution | SEC'19 | [lin
 Towards Memory Safe Enclave Programming with Rust-SGX | CCS'19 | [link](https://dl.acm.org/citation.cfm?id=3319535.3354241)
 A Tale of Two Worlds: Assessing the Vulnerability of Enclave Shielding Runtimes | CCS'19 | [link](https://dl.acm.org/citation.cfm?id=3363206)
 OPERA: Open Remote Attestation for Intel’s Secure Enclaves | CCS'19 | [link](https://dl.acm.org/citation.cfm?id=3354220)
+LightBox: Full-stack Protected Stateful Middlebox at Lightning Speed | CCS'19 | [link](https://dl.acm.org/doi/10.1145/3319535.3339814)
 BLOXY: Providing Transparent and Generic BFT-Based Ordering Services for Blockchains | SRDS'19 | [link](https://www.ibr.cs.tu-bs.de/users/ruesch/papers/ruesch-srds19.pdf)
 AccTEE: A WebAssembly-based Two-way Sandbox for Trusted Resource Accounting | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361541)
 EnclaveCache: A Secure and Scalable Key-value Cache in Multi-tenant Clouds using Intel SGX | Middleware'19 | [link](https://dl.acm.org/citation.cfm?id=3361533)
@@ -109,8 +113,24 @@ SeGShare: Secure Group File Sharing in the Cloud using Enclaves | DSN'20 | [link
 Civet: An Efficient Java Partitioning Framework for Hardware Enclaves | SEC'20 | [link](https://www.usenix.org/system/files/sec20spring_tsai_prepub.pdf)
 BesFS: A POSIX Filesystem for Enclaves with a Mechanized Safety Proof | SEC'20 | [link](https://www.usenix.org/system/files/sec20-shinde.pdf)
 TEEMon: A continuous performance monitoring framework for TEEs | Middleware'20 | TBA
+secureTF: A Secure TensorFlow Framework | Middleware'20 | [link](https://dl.acm.org/doi/10.1145/3423211.3425687)
 Vessels: Efficient and Scalable Deep Learning Prediction on Trusted Processors | SoCC'20 | [link](https://github.com/daveti/papers/blob/master/socc20/vessels.pdf)
 PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verification | CODASPY'20 | [link](https://eprint.iacr.org/2018/902.pdf)
+Towards Formalization of Enhanced Privacy ID (EPID)-based Remote Attestation in Intel SGX | DSD'20 | [link](https://ieeexplore.ieee.org/document/9217791)
+Formal Foundations for Intel SGX Data Center Attestation Primitives | ICFEM'20 | [link](https://link.springer.com/chapter/10.1007/978-3-030-63406-3_16)
+EnclavePDP: A General Framework to Verify Data Integrity in Cloud Using Intel SGX | RAID'20 | [link](https://www.usenix.org/system/files/raid20-he.pdf)
+TRUSTORE: Side-Channel Resistant Storage for SGX using Intel Hybrid CPU-FPGA | CCS'20 | [link](https://dl.acm.org/doi/pdf/10.1145/3372297.3417265)
+Spons & Shields: Practical Isolation for Trusted Execution | VEE'21 | [link](https://lsds.doc.ic.ac.uk/sites/default/files/sartakov%402021ssf.pdf)
+Aria: Tolerating Skewed Workloads in Secure In-memory Key-value Stores | ICDE'21 | [link](http://storage.cs.tsinghua.edu.cn/papers/icde21-aria.pdf)
+TWINE: An Embedded Trusted Runtime for WebAssembly | ICDE'21 | [link](https://arxiv.org/pdf/2103.15860.pdf)
+CHANCEL: Efficient Multi-client Isolation Under Adversarial Programs | NDSS'21 | [link](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7B-2_24057_paper.pdf)
+VoltPillager: Hardware-based fault injection attacks against Intel SGX Enclaves using the SVID voltage scaling interface | USENIX Security'21 | [link](https://www.usenix.org/system/files/sec21summer_chen-zitai.pdf)
+SGXoMeter: Open and Modular Benchmarking for Intel SGX | EuroSec'21 | [link](https://dl.acm.org/doi/pdf/10.1145/3447852.3458722)
+Building enclave-native storage engines for practical encrypted databases | VLDB'21 | [link](http://www.vldb.org/pvldb/vol14/p1019-sun.pdf)
+MigSGX: A Migration Mechanism for Containers Including SGX Applications | UCC'21 | [link](https://www.ksl.ci.kyutech.ac.jp/papers/2021/rudh-ucc2021.pdf)
+
+Do you use or are you familiar with Intel SGX? If yes, we’d appreciate you could fill in this anonymous survey, 
+it takes less than 60 seconds https://forms.gle/HdHqXiBdRp98CU6y7 
 
 Unpublished, tech-reports, or open-access:
 
@@ -130,3 +150,4 @@ EncDBDB: Searchable Encrypted, Fast, Compressed, In-Memory Database using Enclav
 HardIDX: Practical and Secure Index with SGX | [link](https://arxiv.org/pdf/1703.04583.pdf)
 SGAxe: How SGX Fails in Practice | [link](https://sgaxe.com/files/SGAxe.pdf)
 Secure Processors | [Part 1](https://people.csail.mit.edu/devadas/pubs/part_1.pdf), [Part 2](https://people.csail.mit.edu/devadas/pubs/part_2.pdf)
+Confidential Computing and Related Technologies: A Review | [link] (https://www.researchgate.net/publication/356474602_Confidential_Computing_and_Related_Technologies_A_Review)
