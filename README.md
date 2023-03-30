@@ -113,7 +113,7 @@ Trust management as a service: Enabling trusted execution in the face of Byzanti
 SeGShare: Secure Group File Sharing in the Cloud using Enclaves | DSN'20 | [link](http://www.fkerschbaum.org/dsn20.pdf)
 Civet: An Efficient Java Partitioning Framework for Hardware Enclaves | SEC'20 | [link](https://www.usenix.org/system/files/sec20spring_tsai_prepub.pdf)
 BesFS: A POSIX Filesystem for Enclaves with a Mechanized Safety Proof | SEC'20 | [link](https://www.usenix.org/system/files/sec20-shinde.pdf)
-TEEMon: A continuous performance monitoring framework for TEEs | Middleware'20 | TBA
+TEEMon: A continuous performance monitoring framework for TEEs | Middleware'20 | [link](https://dl.acm.org/doi/10.1145/3423211.3425677)
 secureTF: A Secure TensorFlow Framework | Middleware'20 | [link](https://dl.acm.org/doi/10.1145/3423211.3425687)
 Vessels: Efficient and Scalable Deep Learning Prediction on Trusted Processors | SoCC'20 | [link](https://github.com/daveti/papers/blob/master/socc20/vessels.pdf)
 PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verification | CODASPY'20 | [link](https://eprint.iacr.org/2018/902.pdf)
@@ -129,6 +129,7 @@ VoltPillager: Hardware-based fault injection attacks against Intel SGX Enclaves 
 SGXoMeter: Open and Modular Benchmarking for Intel SGX | EuroSec'21 | [link](https://dl.acm.org/doi/pdf/10.1145/3447852.3458722)
 Building enclave-native storage engines for practical encrypted databases | VLDB'21 | [link](http://www.vldb.org/pvldb/vol14/p1019-sun.pdf)
 MigSGX: A Migration Mechanism for Containers Including SGX Applications | UCC'21 | [link](https://www.ksl.ci.kyutech.ac.jp/papers/2021/rudh-ucc2021.pdf)
+SGX Switchless Calls Made Configless | DSN'23 | TBA
 
 Do you use or are you familiar with Intel SGX? If yes, we’d appreciate you could fill in this anonymous survey, 
 it takes less than 60 seconds https://forms.gle/HdHqXiBdRp98CU6y7 
