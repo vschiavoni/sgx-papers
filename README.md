@@ -2,8 +2,7 @@
 
 A curated list of system papers using/about Intel SGX. I'll try to keep this list updated. I gladly accept PRs.
 
-Do you use or are you familiar with Intel SGX? If yes, we’d appreciate you could fill in this anonymous survey, 
-it takes less than 60 seconds https://forms.gle/HdHqXiBdRp98CU6y7 
+*Are you a female researcher working in the area of TEEs? We are looking for experts to help with a Workshop TPC. Please get in touch!*
 
 Title | Venue | PDF
 --- | --- | ---
@@ -48,6 +47,7 @@ Cache Attacks on Intel SGX | EuroSec'17 | [link](http://www.sharcs-project.eu/m/
 SGXKernel: A Library Operating System Optimized for Intel SGX | CF'17 | [link](https://dl.acm.org/citation.cfm?id=3075572)
 Graphene-SGX: A Practical Library OS for Unmodified Applications on SGX |ATC'17| [link](https://www.usenix.org/conference/atc17/technical-sessions/presentation/tsai)
 HardIDX: Practical and Secure Index with SGX | DBSec'17 | [link](https://link.springer.com/chapter/10.1007/978-3-319-61176-1_22)
+Opaque: An Oblivious and Encrypted Distributed Analytics Platform | NSDI'17 | [link](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-zheng.pdf)
 VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification Structures | ASPLOS'18 | [link](https://www.cs.utah.edu/~rajeev/pubs/asplos18.pdf)
 STANlite - a database engine for secure data processing at rack-scale level | IC2E'18 | [link](https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18stanlite.pdf)
 EnclaveDB: A Secure Database using SGX | SP'18 |[link](https://www.computer.org/csdl/proceedings/sp/2018/4353/00/435301a405.pdf)
@@ -113,7 +113,7 @@ Trust management as a service: Enabling trusted execution in the face of Byzanti
 SeGShare: Secure Group File Sharing in the Cloud using Enclaves | DSN'20 | [link](http://www.fkerschbaum.org/dsn20.pdf)
 Civet: An Efficient Java Partitioning Framework for Hardware Enclaves | SEC'20 | [link](https://www.usenix.org/system/files/sec20spring_tsai_prepub.pdf)
 BesFS: A POSIX Filesystem for Enclaves with a Mechanized Safety Proof | SEC'20 | [link](https://www.usenix.org/system/files/sec20-shinde.pdf)
-TEEMon: A continuous performance monitoring framework for TEEs | Middleware'20 | TBA
+TEEMon: A continuous performance monitoring framework for TEEs | Middleware'20 | [link](https://dl.acm.org/doi/10.1145/3423211.3425677)
 secureTF: A Secure TensorFlow Framework | Middleware'20 | [link](https://dl.acm.org/doi/10.1145/3423211.3425687)
 Vessels: Efficient and Scalable Deep Learning Prediction on Trusted Processors | SoCC'20 | [link](https://github.com/daveti/papers/blob/master/socc20/vessels.pdf)
 PROXIMITEE: Hardened SGX Attestation and Trusted Path through Proximity Verification | CODASPY'20 | [link](https://eprint.iacr.org/2018/902.pdf)
@@ -129,11 +129,13 @@ VoltPillager: Hardware-based fault injection attacks against Intel SGX Enclaves 
 SGXoMeter: Open and Modular Benchmarking for Intel SGX | EuroSec'21 | [link](https://dl.acm.org/doi/pdf/10.1145/3447852.3458722)
 Building enclave-native storage engines for practical encrypted databases | VLDB'21 | [link](http://www.vldb.org/pvldb/vol14/p1019-sun.pdf)
 MigSGX: A Migration Mechanism for Containers Including SGX Applications | UCC'21 | [link](https://www.ksl.ci.kyutech.ac.jp/papers/2021/rudh-ucc2021.pdf)
-Trusted Enforcement of Application-specific Security Policies | SECRYPT'21 | [link](https://arxiv.org/pdf/2105.01970.pdf)
+Trusted Enforcement of Application-specific Security Policies | SECRYPT'21 | [link](https://www.scitepress.org/Papers/2021/105797/105797.pdf)
 Poster: Shielding AppSPEAR – Enhancing Memory Safety for Trusted Application-level Security Policy Enforcement | SACMAT'21 | [link](https://dl.acm.org/doi/pdf/10.1145/3450569.3464396)
+SGX-Stream: A Secure Stream Analytics Framework In SGX-enabled Edge Cloud | JISA'23 | [kink](https://www.sciencedirect.com/science/article/pii/S2214212622002472)
+SGX Switchless Calls Made Configless | DSN'23 | TBA
 
-Do you use or are you familiar with Intel SGX? If yes, we’d appreciate you could fill in this anonymous survey, 
-it takes less than 60 seconds https://forms.gle/HdHqXiBdRp98CU6y7 
+Do you use or are you familiar with Intel SGX? If yes, we’d appreciate you could fill in this anonymous survey,
+it takes less than 60 seconds https://forms.gle/HdHqXiBdRp98CU6y7
 
 Unpublished, tech-reports, or open-access:
 
