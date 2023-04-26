@@ -130,7 +130,8 @@ SGXoMeter: Open and Modular Benchmarking for Intel SGX | EuroSec'21 | [link](htt
 Building enclave-native storage engines for practical encrypted databases | VLDB'21 | [link](http://www.vldb.org/pvldb/vol14/p1019-sun.pdf)
 MigSGX: A Migration Mechanism for Containers Including SGX Applications | UCC'21 | [link](https://www.ksl.ci.kyutech.ac.jp/papers/2021/rudh-ucc2021.pdf)
 Trusted Enforcement of Application-specific Security Policies | SECRYPT'21 | [link](https://www.scitepress.org/Papers/2021/105797/105797.pdf)
-SGX-Stream: A Secure Stream Analytics Framework In SGX-enabled Edge Cloud | JISA'23 | [kink](https://www.sciencedirect.com/science/article/pii/S2214212622002472)
+Accelerating Encrypted Deduplication via SGX | USENIX ATC'21 | [link](https://www.usenix.org/system/files/atc21-ren-yanjing.pdf)
+SGX-Stream: A Secure Stream Analytics Framework In SGX-enabled Edge Cloud | JISA'23 | [link](https://www.sciencedirect.com/science/article/pii/S2214212622002472)
 SGX Switchless Calls Made Configless | DSN'23 | TBA
 
 Do you use or are you familiar with Intel SGX? If yes, we’d appreciate you could fill in this anonymous survey, 
@@ -154,3 +155,4 @@ EncDBDB: Searchable Encrypted, Fast, Compressed, In-Memory Database using Enclav
 HardIDX: Practical and Secure Index with SGX | [link](https://arxiv.org/pdf/1703.04583.pdf)
 SGAxe: How SGX Fails in Practice | [link](https://sgaxe.com/files/SGAxe.pdf)
 Secure Processors | [Part 1](https://people.csail.mit.edu/devadas/pubs/part_1.pdf), [Part 2](https://people.csail.mit.edu/devadas/pubs/part_2.pdf)
+Edgar: Offloading Function Execution to the Ultimate Edge | [link](http://dx.doi.org/10.24355%2Fdbbs.084-202111031112-0)
