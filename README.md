@@ -129,6 +129,7 @@ VoltPillager: Hardware-based fault injection attacks against Intel SGX Enclaves 
 SGXoMeter: Open and Modular Benchmarking for Intel SGX | EuroSec'21 | [link](https://dl.acm.org/doi/pdf/10.1145/3447852.3458722)
 Building enclave-native storage engines for practical encrypted databases | VLDB'21 | [link](http://www.vldb.org/pvldb/vol14/p1019-sun.pdf)
 MigSGX: A Migration Mechanism for Containers Including SGX Applications | UCC'21 | [link](https://www.ksl.ci.kyutech.ac.jp/papers/2021/rudh-ucc2021.pdf)
+Accelerating Encrypted Deduplication via SGX | USENIX ATC'21 | [link](https://www.usenix.org/system/files/atc21-ren-yanjing.pdf)
 SGX-Stream: A Secure Stream Analytics Framework In SGX-enabled Edge Cloud | JISA'23 | [link](https://www.sciencedirect.com/science/article/pii/S2214212622002472)
 SGX Switchless Calls Made Configless | DSN'23 | TBA
 
