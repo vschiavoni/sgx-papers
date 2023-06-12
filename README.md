@@ -2,7 +2,7 @@
 
 A curated list of system papers using/about Intel SGX. I'll try to keep this list updated. I gladly accept PRs.
 
-*Are you a female researcher working in the area of TEEs? We are looking for experts to help with a Workshop TPC. Please get in touch!* 
+*We are actively looking for motivated PhD students to join our group in a new FNS project. Get in Touch !* 
 
 Title | Venue | PDF
 --- | --- | ---
