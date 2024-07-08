@@ -132,6 +132,7 @@ MigSGX: A Migration Mechanism for Containers Including SGX Applications | UCC'21
 Accelerating Encrypted Deduplication via SGX | USENIX ATC'21 | [link](https://www.usenix.org/system/files/atc21-ren-yanjing.pdf)
 SGX-Stream: A Secure Stream Analytics Framework In SGX-enabled Edge Cloud | JISA'23 | [link](https://www.sciencedirect.com/science/article/pii/S2214212622002472)
 SGX Switchless Calls Made Configless | DSN'23 | TBA
+HasTEE: Programming Trusted Execution Environments with Haskell | Haskell'23 | [link](https://dl.acm.org/doi/pdf/10.1145/3609026.3609731)
 
 Do you use or are you familiar with Intel SGX? If yes, we’d appreciate you could fill in this anonymous survey, 
 it takes less than 60 seconds https://forms.gle/HdHqXiBdRp98CU6y7 
