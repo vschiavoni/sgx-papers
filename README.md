@@ -2,7 +2,8 @@
 
 A curated list of system papers using/about Intel SGX. I'll try to keep this list updated. I gladly accept PRs.
 
-*We are actively looking for motivated PhD students to join our group in a new FNS project. Get in Touch !* 
+Do you use or are you familiar with Intel SGX? If yes, we’d appreciate you could fill in this anonymous survey, 
+it takes less than 60 seconds https://forms.gle/HdHqXiBdRp98CU6y7 
 
 Title | Venue | PDF
 --- | --- | ---
