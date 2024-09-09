@@ -157,3 +157,5 @@ HardIDX: Practical and Secure Index with SGX | [link](https://arxiv.org/pdf/1703
 SGAxe: How SGX Fails in Practice | [link](https://sgaxe.com/files/SGAxe.pdf)
 Secure Processors | [Part 1](https://people.csail.mit.edu/devadas/pubs/part_1.pdf), [Part 2](https://people.csail.mit.edu/devadas/pubs/part_2.pdf)
 Edgar: Offloading Function Execution to the Ultimate Edge | [link](http://dx.doi.org/10.24355%2Fdbbs.084-202111031112-0)
+Confidential Computing on nVIDIA H100 GPU: A Performance Benchmark Study | [link](https://arxiv.org/abs/2409.03992)
+
